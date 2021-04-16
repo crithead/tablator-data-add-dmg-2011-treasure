@@ -1,0 +1,63 @@
+{
+  "name": "Jewel Gem Type",
+  "type": "items",
+  "total-weight": 14,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "black opal"
+    },
+    {
+      "weight": 1,
+      "name": "black sapphire"
+    },
+    {
+      "weight": 1,
+      "name": "diamond"
+    },
+    {
+      "weight": 1,
+      "name": "emerald"
+    },
+    {
+      "weight": 1,
+      "name": "fire opal"
+    },
+    {
+      "weight": 1,
+      "name": "jacinth"
+    },
+    {
+      "weight": 1,
+      "name": "opal"
+    },
+    {
+      "weight": 1,
+      "name": "oriental amethyst"
+    },
+    {
+      "weight": 1,
+      "name": "oriental emerald"
+    },
+    {
+      "weight": 1,
+      "name": "oriental topaz"
+    },
+    {
+      "weight": 1,
+      "name": "ruby"
+    },
+    {
+      "weight": 1,
+      "name": "sapphire"
+    },
+    {
+      "weight": 1,
+      "name": "star ruby"
+    },
+    {
+      "weight": 1,
+      "name": "star sapphire"
+    }
+  ]
+}

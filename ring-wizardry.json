@@ -1,0 +1,23 @@
+{
+  "name": "Wizardry Ring",
+  "type": "items",
+  "total-weight": 4,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "1st level spells"
+    },
+        {
+      "weight": 1,
+      "name": "2nd level spells"
+    },
+        {
+      "weight": 1,
+      "name": "3rd level spells"
+    },
+        {
+      "weight": 1,
+      "name": "4th level spells"
+    }
+  ]
+}

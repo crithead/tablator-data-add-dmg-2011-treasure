@@ -1,0 +1,87 @@
+{
+  "name": "Ioun Stone Type",
+  "type": "items",
+  "total-weight": 80,
+  "rows": [
+    {
+      "weight": 5,
+      "name": "clear spindle"
+    },
+    {
+      "weight": 5,
+      "name": "deep red sphere"
+    },
+    {
+      "weight": 1,
+      "name": "dull gray sphere"
+    },
+    {
+      "weight": 1,
+      "name": "dull gray spindle"
+    },
+    {
+      "weight": 1,
+      "name": "dull gray prism"
+    },
+    {
+      "weight": 1,
+      "name": "dull gray ellipsoid"
+    },
+    {
+      "weight": 1,
+      "name": "dull gray rhomboid"
+    },
+    {
+      "weight": 5,
+      "name": "dusty rose prism"
+    },
+    {
+      "weight": 5,
+      "name": "incandescent blue sphere"
+    },
+    {
+      "weight": 5,
+      "name": "iridescent spindle"
+    },
+    {
+      "weight": 5,
+      "name": "lavender & green ellipsoid"
+    },
+    {
+      "weight": 5,
+      "name": "orange prism"
+    },
+    {
+      "weight": 5,
+      "name": "pale blue rhomboid"
+    },
+    {
+      "weight": 5,
+      "name": "pale green prism"
+    },
+    {
+      "weight": 5,
+      "name": "pale lavender ellipsoid"
+    },
+    {
+      "weight": 5,
+      "name": "pearly white spindle"
+    },
+    {
+      "weight": 5,
+      "name": "pink rhomboid"
+    },
+    {
+      "weight": 5,
+      "name": "pink & green sphere"
+    },
+    {
+      "weight": 5,
+      "name": "scarlet & blue sphere"
+    },
+    {
+      "weight": 5,
+      "name": "vibrant blue prism"
+    }
+  ]
+}

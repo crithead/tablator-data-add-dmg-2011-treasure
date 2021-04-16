@@ -1,0 +1,23 @@
+{
+  "name": "Elemental Ring",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 25,
+      "name": "air"
+    },
+    {
+      "weight": 25,
+      "name": "earth"
+    },
+    {
+      "weight": 25,
+      "name": "fire"
+    },
+    {
+      "weight": 25,
+      "name": "water"
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "name": "Armor & Shields",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 3,
+      "name": "banded mail +1",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 2,
+      "name": "banded mail +2",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "banded mail +3",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "banded mail +4",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "banded mail of luck",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 6,
+      "name": "chain mail +1",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 4,
+      "name": "chain mail +2",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 2,
+      "name": "chain mail +3",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "chain mail +4",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "chain mail +5",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 3,
+      "name": "chain shirt +1",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 2,
+      "name": "chain shirt +2",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "chain shirt +3",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "chain shirt +4",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "celestial chain main",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "demon armor",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 2,
+      "name": "full plate +1",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 2,
+      "name": "full plate +2",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "full plate +3",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "full plate +4",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "full plate +5",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "full plate of arrow attraction",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "full plate of command",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "full plate of the deep",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "full plate of rage",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "full plate of speed",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 7,
+      "name": "leather armor +1",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 2,
+      "name": "leather armor +2",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "padded armor +1",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 4,
+      "name": "platemail +1",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 2,
+      "name": "platemail +2",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 2,
+      "name": "platemail +3",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "platemail +4",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "platemail +5",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "platemail of etherealness",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "platemail of vulnerability",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 3,
+      "name": "ringmail +1",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 2,
+      "name": "ringmail +2",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 2,
+      "name": "scalemail +1",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 2,
+      "name": "scalemail +2",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "scalemail +3",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 2,
+      "name": "splintmail +1",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 2,
+      "name": "splintmail +2",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "splintmail +3",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 1,
+      "name": "splintmail +4",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 4,
+      "name": "studded leather +1",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 2,
+      "name": "studded leather +2",
+      "subtable": "armor-race"
+    },
+    {
+      "weight": 5,
+      "name": "shield +1",
+      "subtable": "shield-type-1"
+    },
+    {
+      "weight": 3,
+      "name": "shield +2",
+      "subtable": "shield-type-1"
+    },
+    {
+      "weight": 2,
+      "name": "shield +3",
+      "subtable": "shield-type-2"
+    },
+    {
+      "weight": 1,
+      "name": "shield +4",
+      "subtable": "shield-type-2"
+    },
+    {
+      "weight": 1,
+      "name": "shield +1, +4 vs missiles (large steel)"
+    },
+    {
+      "weight": 1,
+      "name": "shield -1, missile attractor (small steel)"
+    }
+  ]
+}

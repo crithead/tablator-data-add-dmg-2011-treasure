@@ -1,0 +1,43 @@
+{
+  "name": "Figuring of Wondrous Power Type",
+  "type": "items",
+  "total-weight": 9,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "bronze griffin"
+    },
+    {
+      "weight": 1,
+      "name": "ebony fly"
+    },
+    {
+      "weight": 1,
+      "name": "golden lions"
+    },
+    {
+      "weight": 1,
+      "name": "ivory goats"
+    },
+    {
+      "weight": 1,
+      "name": "marble elephant"
+    },
+    {
+      "weight": 1,
+      "name": "obsidian steed"
+    },
+    {
+      "weight": 1,
+      "name": "onyx dog"
+    },
+    {
+      "weight": 1,
+      "name": "serpentine owl"
+    },
+    {
+      "weight": 1,
+      "name": "silver raven"
+    }
+  ]
+}

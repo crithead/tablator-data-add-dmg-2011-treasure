@@ -1,0 +1,15 @@
+{
+  "name": "Artifact or Relic",
+  "type": "tables",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 50,
+      "table": "artifact"
+    },
+    {
+      "weight": 50,
+      "table": "relic"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Bag of Tricks Type",
+  "type": "items",
+  "total-weight": 7,
+  "rows": [
+    {
+      "weight": 4,
+      "name": "gray"
+    },
+    {
+      "weight": 2,
+      "name": "rust"
+    },
+    {
+      "weight": 1,
+      "name": "tan"
+    }
+  ]
+}

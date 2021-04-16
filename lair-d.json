@@ -1,0 +1,48 @@
+{
+  "name": "Lair Treasure Type D",
+  "type": "table-list",
+  "columns": [
+    {
+      "name": "cp",
+      "chance": 10,
+      "table": null,
+      "quantity": "1d6x1000"
+    },
+    {
+      "name": "sp",
+      "chance": 15,
+      "table": null,
+      "quantity": "1d10x1000"
+    },
+    {
+      "name": "gp",
+      "chance": 50,
+      "table": null,
+      "quantity": "1d3x1000"
+    },
+    {
+      "name": "pp",
+      "chance": 15,
+      "table": null,
+      "quantity": "1d6x100"
+    },
+    {
+      "name": "gems",
+      "chance": 30,
+      "table": "gems",
+      "quantity": "1d10"
+    },
+    {
+      "name": "jewelry",
+      "chance": 25,
+      "table": "jewelry",
+      "quantity": "1d6"
+    },
+    {
+      "name": "2 magic item + 1 potion",
+      "chance": 15,
+      "table": "any2-potions1",
+      "quantity": "1"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Flail Type",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 50,
+      "name": "footman"
+    },
+    {
+      "weight": 40,
+      "name": "horseman"
+    },
+    {
+      "weight": 10,
+      "name": "great"
+    }
+  ]
+}

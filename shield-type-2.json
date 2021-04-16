@@ -1,0 +1,16 @@
+{
+  "name": "Shield Size & Material 2",
+  "#comment": "+3 & +4 shields",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 50,
+      "name": "small steel"
+    },
+    {
+      "weight": 50,
+      "name": "large steel"
+    }
+  ]
+}

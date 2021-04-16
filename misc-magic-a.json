@@ -1,0 +1,176 @@
+{
+  "name": "Miscellaneous Magic Items A",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "alchemy jug"
+    },
+    {
+      "weight": 1,
+      "name": "amulet of barkskin"
+    },
+    {
+      "weight": 1,
+      "name": "amulet of inescapable location"
+    },
+    {
+      "weight": 1,
+      "name": "amulet of life protection"
+    },
+    {
+      "weight": 1,
+      "name": "amulet of mighty fists",
+      "subtable": "amulet-mighty-fists-type"
+    },
+    {
+      "weight": 1,
+      "name": "amulet of the planes"
+    },
+    {
+      "weight": 2,
+      "name": "amulet of proof against detection & location"
+    },
+    {
+      "weight": 2,
+      "name": "amulet versus undead"
+    },
+    {
+      "weight": 1,
+      "name": "apparatus of Kwalish"
+    },
+    {
+      "weight": 1,
+      "name": "arrow of direction"
+    },
+    {
+      "weight": 1,
+      "name": "artifact or relic",
+      "subtable": "artifact-relic"
+    },
+    {
+      "weight": 2,
+      "name": "bag of beans"
+    },
+    {
+      "weight": 1,
+      "name": "bag of devouring"
+    },
+    {
+      "weight": 5,
+      "name": "bag of holding",
+      "subtable": "bag-of-holding-type"
+    },
+    {
+      "weight": 1,
+      "name": "bag of transmuting"
+    },
+    {
+      "weight": 1,
+      "name": "bag of tricks",
+      "subtable": "bag-of-tricks-type"
+    },
+    {
+      "weight": 2,
+      "name": "bead of force"
+    },
+    {
+      "weight": 1,
+      "name": "beaker of plentiful potions"
+    },
+    {
+      "weight": 1,
+      "name": "boat, folding"
+    },
+    {
+      "weight": 3,
+      "name": "Boccob's blessed book"
+    },
+    {
+      "weight": 1,
+      "name": "boots of dancing"
+    },
+    {
+      "weight": 5,
+      "name": "boots of elvenkind"
+    },
+    {
+      "weight": 4,
+      "name": "boots of levitation"
+    },
+    {
+      "weight": 1,
+      "name": "boots of the north"
+    },
+    {
+      "weight": 3,
+      "name": "boots of speed"
+    },
+    {
+      "weight": 3,
+      "name": "boots of striding & springing"
+    },
+    {
+      "weight": 1,
+      "name": "boots of teleportation"
+    },
+    {
+      "weight": 2,
+      "name": "boots of varied tracks"
+    },
+    {
+      "weight": 1,
+      "name": "boots, winged"
+    },
+    {
+      "weight": 2,
+      "name": "bowl of commanding water elementals"
+    },
+    {
+      "weight": 1,
+      "name": "bowl of watery death"
+    },
+    {
+      "weight": 3,
+      "name": "bracers of archery"
+    },
+    {
+      "weight": 1,
+      "name": "bracers of brachiation"
+    },
+    {
+      "weight": 21,
+      "name": "bracers of defense",
+      "subtable": "bracer-of-defense-type"
+    },
+    {
+      "weight": 2,
+      "name": "bracers of defenselessness"
+    },
+    {
+      "weight": 3,
+      "name": "brazier of commanding fire elementals"
+    },
+    {
+      "weight": 1,
+      "name": "brazier of sleep smoke"
+    },
+    {
+      "weight": 7,
+      "name": "brooch of shielding"
+    },
+    {
+      "weight": 1,
+      "name": "broom of animated attack"
+    },
+    {
+      "weight": 5,
+      "name": "broom of flying"
+    },
+    {
+      "weight": 2,
+      "name": "Bucknard's everful purse"
+    }
+  ]
+}

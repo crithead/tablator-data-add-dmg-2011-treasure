@@ -1,0 +1,12 @@
+{
+  "type": "table-list",
+  "name": "Lair Treasure Type L",
+  "columns": [
+    {
+      "name": "pp",
+      "chance": 100,
+      "table": null,
+      "quantity": "2d6"
+    }
+  ]
+}

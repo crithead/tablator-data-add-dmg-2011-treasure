@@ -1,0 +1,24 @@
+{
+  "type": "table-list",
+  "name": "Lair Treasure Type U",
+  "columns": [
+    {
+      "name": "gems",
+      "chance": 90,
+      "table": "gems",
+      "quantity": "2d8"
+    },
+    {
+      "name": "jewelry",
+      "chance": 80,
+      "table": "jewelry",
+      "quantity": "1d6"
+    },
+    {
+      "name": "any",
+      "chance": 70,
+      "table": "magic-item",
+      "quantity": "1"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Armor or Weapon",
+  "type": "tables",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 50,
+      "table": "armor-shields"
+    },
+    {
+      "weight": 50,
+      "table": "weapons"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Hornblade Type",
+  "type": "items",
+  "total-weight": 6,
+  "rows": [
+    {
+      "weight": 3,
+      "name": "short"
+    },
+    {
+      "weight": 3,
+      "name": "scimitar"
+    }
+  ]
+}

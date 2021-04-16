@@ -1,0 +1,111 @@
+{
+  "name": "Wands",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 2,
+      "name": "wand of conjuration"
+    },
+    {
+      "weight": 3,
+      "name": "wand of defoliation"
+    },
+    {
+      "weight": 2,
+      "name": "wand of earth & stone"
+    },
+    {
+      "weight": 4,
+      "name": "wand of enemy detection"
+    },
+    {
+      "weight": 4,
+      "name": "wand of fear"
+    },
+    {
+      "weight": 2,
+      "name": "wand of fire"
+    },
+    {
+      "weight": 4,
+      "name": "wand of fireballs"
+    },
+    {
+      "weight": 4,
+      "name": "wand of flame extinguishing"
+    },
+    {
+      "weight": 1,
+      "name": "wand of force"
+    },
+    {
+      "weight": 3,
+      "name": "wand of frost"
+    },
+    {
+      "weight": 3,
+      "name": "wand of ice storms"
+    },
+    {
+      "weight": 4,
+      "name": "wand of illumination"
+    },
+    {
+      "weight": 4,
+      "name": "wand of illusion"
+    },
+    {
+      "weight": 3,
+      "name": "wand of lightning"
+    },
+    {
+      "weight": 4,
+      "name": "wand of lightning bolts"
+    },
+    {
+      "weight": 5,
+      "name": "wand of magic detection"
+    },
+    {
+      "weight": 9,
+      "name": "wand of magic missiles"
+    },
+    {
+      "weight": 5,
+      "name": "wand of metal & mineral detection"
+    },
+    {
+      "weight": 2,
+      "name": "wand of metal command"
+    },
+    {
+      "weight": 6,
+      "name": "wand of negation"
+    },
+    {
+      "weight": 4,
+      "name": "wand of paralyzation"
+    },
+    {
+      "weight": 4,
+      "name": "wand of polymorphing"
+    },
+    {
+      "weight": 4,
+      "name": "wand of secret door & trap location"
+    },
+    {
+      "weight": 4,
+      "name": "wand of size alteration"
+    },
+    {
+      "weight": 2,
+      "name": "wand of steam & vapor"
+    },
+    {
+      "weight": 8,
+      "name": "wand of wonder"
+    }
+  ]
+}

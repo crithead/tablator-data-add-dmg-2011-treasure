@@ -1,0 +1,15 @@
+{
+  "name": "Spear Type",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 75,
+      "name": "short"
+    },
+    {
+      "weight": 25,
+      "name": "long"
+    }
+  ]
+}

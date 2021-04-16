@@ -1,0 +1,35 @@
+{
+  "name": "Necklace of Missiles Type",
+  "type": "items",
+  "total-weight": 28,
+  "rows": [
+    {
+      "weight": 7,
+      "name": "type I"
+    },
+    {
+      "weight": 6,
+      "name": "type II"
+    },
+    {
+      "weight": 5,
+      "name": "type III"
+    },
+    {
+      "weight": 4,
+      "name": "type IV"
+    },
+    {
+      "weight": 3,
+      "name": "type V"
+    },
+    {
+      "weight": 2,
+      "name": "type VI"
+    },
+    {
+      "weight": 1,
+      "name": "type VII"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "type": "table-list",
+  "name": "Lair Treasure Type R",
+  "columns": [
+    {
+      "name": "gp",
+      "chance": 100,
+      "table": null,
+      "quantity": "2d10"
+    },
+    {
+      "name": "pp",
+      "chance": 100,
+      "table": null,
+      "quantity": "1d6x10"
+    },
+    {
+      "name": "gems",
+      "chance": 100,
+      "table": "gems",
+      "quantity": "2d4"
+    },
+    {
+      "name": "jewelry",
+      "chance": 100,
+      "table": "jewelry",
+      "quantity": "1d3"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Contrariness Ring",
+  "type": "items",
+  "total-weight": 20,
+  "rows": [
+    {
+      "weight": 5,
+      "name": "flying"
+    },
+    {
+      "weight": 3,
+      "name": "invisibility"
+    },
+    {
+      "weight": 4,
+      "name": "levitation"
+    },
+    {
+      "weight": 2,
+      "name": "shocking grasp (once per round)"
+    },
+    {
+      "weight": 2,
+      "name": "spell turning"
+    },
+    {
+      "weight": 4,
+      "name": "strength"
+    }
+  ]
+}

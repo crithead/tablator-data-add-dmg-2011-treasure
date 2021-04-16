@@ -1,0 +1,19 @@
+{
+  "name": "Weapons",
+  "type": "tables",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 28,
+      "table": "weapon-misc-a"
+    },
+    {
+      "weight": 28,
+      "table": "weapon-misc-b"
+    },
+    {
+      "weight": 44,
+      "table": "swords"
+    }
+  ]
+}

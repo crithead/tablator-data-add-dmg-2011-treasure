@@ -1,0 +1,188 @@
+{
+  "name": "Scrolls",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 10,
+      "name": "scroll of 1 level 1-4 spell",
+      "subtable": "scroll-type"
+    },
+    {
+      "weight": 6,
+      "name": "scroll of 1 level 1-6 spell",
+      "subtable": "scroll-type"
+    },
+    {
+      "weight": 3,
+      "name": "scroll of 1 level 2-8 spell",
+      "subtable": "scroll-type"
+    },
+    {
+      "weight": 5,
+      "name": "scroll of 2 level 1-6 spells",
+      "subtable": "scroll-type"
+    },
+    {
+      "weight": 3,
+      "name": "scroll of 2 level 1-8 spells",
+      "subtable": "scroll-type"
+    },
+    {
+      "weight": 5,
+      "name": "scroll of 3 level 1-6 spells",
+      "subtable": "scroll-type"
+    },
+    {
+      "weight": 3,
+      "name": "scroll of 3 level 1-8 spells",
+      "subtable": "scroll-type"
+    },
+    {
+      "weight": 4,
+      "name": "scroll of 4 level 1-6 spells",
+      "subtable": "scroll-type"
+    },
+    {
+      "weight": 3,
+      "name": "scroll of 4 level 1-8 spells",
+      "subtable": "scroll-type"
+    },
+    {
+      "weight": 4,
+      "name": "scroll of 5 level 1-6 spells",
+      "subtable": "scroll-type"
+    },
+    {
+      "weight": 3,
+      "name": "scroll of 5 level 1-8 spells",
+      "subtable": "scroll-type"
+    },
+    {
+      "weight": 3,
+      "name": "scroll of 6 level 1-6 spells",
+      "subtable": "scroll-type"
+    },
+    {
+      "weight": 2,
+      "name": "scroll of 6 level 1-8 spells",
+      "subtable": "scroll-type"
+    },
+    {
+      "weight": 3,
+      "name": "scroll of 7 level 1-4 spells",
+      "subtable": "scroll-type"
+    },
+    {
+      "weight": 2,
+      "name": "scroll of 7 level 1-6 spells",
+      "subtable": "scroll-type"
+    },
+    {
+      "weight": 1,
+      "name": "scroll of 7 level 1-8 spell",
+      "subtable": "scroll-type"
+    },
+    {
+      "weight": 2,
+      "name": "scroll of antilife shell"
+    },
+    {
+      "weight": 2,
+      "name": "scroll of antimagic shell"
+    },
+    {
+      "weight": 2,
+      "name": "scroll of antiplant shell"
+    },
+    {
+      "weight": 2,
+      "name": "scroll of immunity to paralyzation 10' radius"
+    },
+    {
+      "weight": 2,
+      "name": "scroll of immunity to petrification 10' radius"
+    },
+    {
+      "weight": 2,
+      "name": "scroll of immunity to poison 10' radius"
+    },
+    {
+      "weight": 1,
+      "name": "scroll of protection from aberrations"
+    },
+    {
+      "weight": 2,
+      "name": "scroll of protection from dragons"
+    },
+    {
+      "weight": 2,
+      "name": "scroll of protection from extra-planar creatures (demons)"
+    },
+    {
+      "weight": 2,
+      "name": "scroll of protection from extra-planar creatures (devils)"
+    },
+    {
+      "weight": 2,
+      "name": "scroll of protection from extra-planar creatures (elementals)"
+    },
+    {
+      "weight": 1,
+      "name": "scroll of protection from faeries"
+    },
+    {
+      "weight": 1,
+      "name": "scroll of protection from golems"
+    },
+    {
+      "weight": 1,
+      "name": "scroll of protection from lycanthrops"
+    },
+    {
+      "weight": 2,
+      "name": "scroll of protection from undead"
+    },
+    {
+      "weight": 1,
+      "name": "scroll of resist acid 10' radius"
+    },
+    {
+      "weight": 2,
+      "name": "scroll of resist cold 10' radius"
+    },
+    {
+      "weight": 2,
+      "name": "scroll of resist fire 10' radius"
+    },
+    {
+      "weight": 2,
+      "name": "scroll of resist lightning 10' radius"
+    },
+    {
+      "weight": 1,
+      "name": "scroll of resist sonic attacks 10' radius"
+    },
+    {
+      "weight": 1,
+      "name": "scroll of weapon turning (missles)"
+    },
+    {
+      "weight": 1,
+      "name": "scroll of weapon turning (bludgeoning)"
+    },
+    {
+      "weight": 1,
+      "name": "scroll of weapon turning (piercing)"
+    },
+    {
+      "weight": 1,
+      "name": "scroll of weapon turning (slashing)"
+    },
+    {
+      "weight": 2,
+      "name": "cursed scroll",
+      "subtable": "scroll-curse"
+    }
+  ]
+}

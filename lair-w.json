@@ -1,0 +1,36 @@
+{
+  "type": "table-list",
+  "name": "Lair Treasure Type W",
+  "columns": [
+    {
+      "name": "gp",
+      "chance": 100,
+      "table": null,
+      "quantity": "5d6"
+    },
+    {
+      "name": "pp",
+      "chance": 100,
+      "table": null,
+      "quantity": "1d8"
+    },
+    {
+      "name": "gems",
+      "chance": 60,
+      "table": "gems",
+      "quantity": "2d8"
+    },
+    {
+      "name": "jewelry",
+      "chance": 50,
+      "table": "jewelry",
+      "quantity": "1d8"
+    },
+    {
+      "name": "any",
+      "chance": 60,
+      "table": "magic-item",
+      "quantity": "2"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "name": "Jewelry Type",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 2,
+      "name": "anklet"
+    },
+    {
+      "weight": 4,
+      "name": "armband"
+    },
+    {
+      "weight": 3,
+      "name": "belt"
+    },
+    {
+      "weight": 3,
+      "name": "small box"
+    },
+    {
+      "weight": 4,
+      "name": "bracelet"
+    },
+    {
+      "weight": 3,
+      "name": "broach"
+    },
+    {
+      "weight": 2,
+      "name": "buckle"
+    },
+    {
+      "weight": 4,
+      "name": "chain"
+    },
+    {
+      "weight": 1,
+      "name": "chalice"
+    },
+    {
+      "weight": 1,
+      "name": "choker"
+    },
+    {
+      "weight": 3,
+      "name": "clasp"
+    },
+    {
+      "weight": 2,
+      "name": "coffer"
+    },
+    {
+      "weight": 1,
+      "name": "collar"
+    },
+    {
+      "weight": 2,
+      "name": "comb"
+    },
+    {
+      "weight": 1,
+      "name": "coronet"
+    },
+    {
+      "weight": 1,
+      "name": "crown"
+    },
+    {
+      "weight": 2,
+      "name": "decanter"
+    },
+    {
+      "weight": 1,
+      "name": "diadem"
+    },
+    {
+      "weight": 5,
+      "name": "earring"
+    },
+    {
+      "weight": 2,
+      "name": "fob"
+    },
+    {
+      "weight":5,
+      "name": "goblet"
+    },
+    {
+      "weight": 2,
+      "name": "headband"
+    },
+    {
+      "weight": 3,
+      "name": "idol"
+    },
+    {
+      "weight": 2,
+      "name": "locket"
+    },
+    {
+      "weight": 3,
+      "name": "medal"
+    },
+    {
+      "weight": 6,
+      "name": "medallion"
+    },
+    {
+      "weight": 7,
+      "name": "necklace"
+    },
+    {
+      "weight": 3,
+      "name": "pendant"
+    },
+    {
+      "weight": 5,
+      "name": "pin"
+    },
+    {
+      "weight": 1,
+      "name": "orb"
+    },
+    {
+      "weight": 9,
+      "name": "ring"
+    },
+    {
+      "weight": 1,
+      "name": "scepter"
+    },
+    {
+      "weight": 2,
+      "name": "seal"
+    },
+    {
+      "weight": 3,
+      "name": "statuette"
+    },
+    {
+      "weight": 1,
+      "name": "tiara"
+    }
+  ]
+}

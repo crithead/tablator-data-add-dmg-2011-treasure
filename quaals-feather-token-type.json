@@ -1,0 +1,31 @@
+{
+  "name": "Quaal's Feather Token Type",
+  "type": "items",
+  "total-weight": 6,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "anchor"
+    },
+    {
+      "weight": 1,
+      "name": "bird"
+    },
+    {
+      "weight": 1,
+      "name": "fan"
+    },
+    {
+      "weight": 1,
+      "name": "swan boat"
+    },
+    {
+      "weight": 1,
+      "name": "tree"
+    },
+    {
+      "weight": 1,
+      "name": "whip"
+    }
+  ]
+}

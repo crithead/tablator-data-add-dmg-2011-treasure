@@ -1,0 +1,24 @@
+{
+  "name": "Shield Size & Material 1",
+  "#comment": "+1 & +2 shields",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 25,
+      "name": "small wood"
+    },
+    {
+      "weight": 25,
+      "name": "small steel"
+    },
+    {
+      "weight": 25,
+      "name": "small wood"
+    },
+    {
+      "weight": 25,
+      "name": "large wood"
+    }
+  ]
+}

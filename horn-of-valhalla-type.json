@@ -1,0 +1,23 @@
+{
+  "name": "Horn of Valhalla Type",
+  "type": "items",
+  "total-weight": 20,
+  "rows": [
+    {
+      "weight": 8,
+      "name": "silver"
+    },
+    {
+      "weight": 7,
+      "name": "brass"
+    },
+    {
+      "weight": 3,
+      "name": "bronze"
+    },
+    {
+      "weight": 2,
+      "name": "iron"
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "name": "Miscellaneous Weapons A",
+  "type": "items",
+  "total-weight": 103,
+  "rows": [
+    {
+      "weight": 5,
+      "name": "arrows +1",
+      "quantity": "4d6"
+    },
+    {
+      "weight": 3,
+      "name": "arrows +2",
+      "quantity": "4d6"
+    },
+    {
+      "weight": 1,
+      "name": "arrows +3",
+      "quantity": "4d6"
+    },
+    {
+      "weight": 1,
+      "name": "arrows of slaying",
+      "subtable": "arrow-slaying",
+      "quantity": "4d6"
+    },
+    {
+      "weight": 1,
+      "name": "arrows of sleep",
+      "quantity": "4d6"
+    },
+    {
+      "weight": 4,
+      "name": "axe +1"
+    },
+    {
+      "weight": 3,
+      "name": "axe +2"
+    },
+    {
+      "weight": 2,
+      "name": "axe +3"
+    },
+    {
+      "weight": 1,
+      "name": "axe of hurling"
+    },
+    {
+      "weight": 1,
+      "name": "axe, life-drinker"
+    },
+    {
+      "weight": 4,
+      "name": "bolts +1",
+      "quantity": "4d6"
+    },
+    {
+      "weight": 3,
+      "name": "bolts +2",
+      "quantity": "4d6"
+    },
+    {
+      "weight": 1,
+      "name": "bolts +3",
+      "quantity": "4d6"
+    },
+    {
+      "weight": 5,
+      "name": "bow +1",
+      "subtable": "bow-type"
+    },
+    {
+      "weight": 4,
+      "name": "bow +2",
+      "subtable": "bow-type"
+    },
+    {
+      "weight": 4,
+      "name": "bullets +1",
+      "quantity": "4d6"
+    },
+    {
+      "weight": 3,
+      "name": "bullets +2",
+      "quantity": "4d6"
+    },
+    {
+      "weight": 1,
+      "name": "bullets +3",
+      "quantity": "4d6"
+    },
+    {
+      "weight": 1,
+      "name": "bullets of impact",
+      "quantity": "4d6"
+    },
+    {
+      "weight": 5,
+      "name": "crossbow + 1",
+      "quantity": "4d6"
+    },
+    {
+      "weight": 4,
+      "name": "crossbow +2",
+      "quantity": "4d6"
+    },
+    {
+      "weight": 1,
+      "name": "crossbow of accuracy"
+    },
+    {
+      "weight": 1,
+      "name": "crossbow of distance"
+    },
+    {
+      "weight": 1,
+      "name": "crossbow of speed"
+    },
+    {
+      "weight": 5,
+      "name": "dagger + 1"
+    },
+    {
+      "weight": 3,
+      "name": "dagger +1, +3 vs small humanoids & demihumans"
+    },
+    {
+      "weight": 2,
+      "name": "dagger +1, +3 vs large humanoids & giants"
+    },
+    {
+      "weight": 3,
+      "name": "dagger +2"
+    },
+    {
+      "weight": 1,
+      "name": "dagger +2, longtooth"
+    },
+    {
+      "weight": 2,
+      "name": "dagger +3"
+    },
+    {
+      "weight": 1,
+      "name": "dagger of throwing"
+    },
+    {
+      "weight": 1,
+      "name": "dagger of venom"
+    },
+    {
+      "weight": 4,
+      "name": "dart +1"
+    },
+    {
+      "weight": 3,
+      "name": "dart +2",
+      "quantity": "1"
+    },
+    {
+      "weight": 2,
+      "name": "dart +3",
+      "quantity": "1"
+    },
+    {
+      "weight": 1,
+      "name": "dart of homing",
+      "quantity": "1"
+    },
+    {
+      "weight": 1,
+      "name": "dart of the hornet's nest",
+      "quantity": "1"
+    },
+    {
+      "weight": 3,
+      "name": "flail +1"
+    },
+    {
+      "weight": 2,
+      "name": "flail +2"
+    },
+    {
+      "weight": 4,
+      "name": "hammer +1"
+    },
+    {
+      "weight": 3,
+      "name": "hammer +2"
+    },
+    {
+      "weight": 2,
+      "name": "hammer +3"
+    }
+  ]
+}

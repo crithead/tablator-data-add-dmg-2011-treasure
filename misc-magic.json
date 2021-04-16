@@ -1,0 +1,27 @@
+{
+  "name": "Miscellaneous Magic Item",
+  "type": "tables",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 20,
+      "table": "misc-magic-a"
+    },
+    {
+      "weight": 20,
+      "table": "misc-magic-b"
+    },
+    {
+      "weight": 20,
+      "table": "misc-magic-c"
+    },
+    {
+      "weight": 20,
+      "table": "misc-magic-d"
+    },
+    {
+      "weight": 20,
+      "table": "misc-magic-e"
+    }
+  ]
+}

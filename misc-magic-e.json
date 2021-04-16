@@ -1,0 +1,196 @@
+{
+  "name": "Miscellaneous Magic Items E",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "prison of Zagyg"
+    },
+    {
+      "weight": 5,
+      "name": "Quaal’s feather token",
+      "subtable": "quaals-feather-token-type"
+    },
+    {
+      "weight": 4,
+      "name": "quiver of Ehlonna"
+    },
+    {
+      "weight": 2,
+      "name": "ring of gates"
+    },
+    {
+      "weight": 1,
+      "name": "robe of the archmagi"
+    },
+    {
+      "weight": 6,
+      "name": "robe of blending"
+    },
+    {
+      "weight": 2,
+      "name": "robe of bones"
+    },
+    {
+      "weight": 2,
+      "name": "robe of eyes"
+    },
+    {
+      "weight": 1,
+      "name": "robe of powerlessness"
+    },
+    {
+      "weight": 2,
+      "name": "robe of scintillating colors"
+    },
+    {
+      "weight": 1,
+      "name": "robe of stars"
+    },
+    {
+      "weight": 2,
+      "name": "robe of vermin"
+    },
+    {
+      "weight": 6,
+      "name": "robe of useful items"
+    },
+    {
+      "weight": 3,
+      "name": "rope of climbing"
+    },
+    {
+      "weight": 1,
+      "name": "rope of constriction"
+    },
+    {
+      "weight": 3,
+      "name": "rope of entanglement"
+    },
+    {
+      "weight": 1,
+      "name": "rug of smothering"
+    },
+    {
+      "weight": 1,
+      "name": "rug of welcome"
+    },
+    {
+      "weight": 1,
+      "name": "saw of mighty cutting"
+    },
+    {
+      "weight": 1,
+      "name": "scarab of death"
+    },
+    {
+      "weight": 2,
+      "name": "scarab of enraging enemies"
+    },
+    {
+      "weight": 2,
+      "name": "scarab of insanity"
+    },
+    {
+      "weight": 6,
+      "name": "scarab of protection"
+    },
+    {
+      "weight": 1,
+      "name": "scarab versus golems"
+    },
+    {
+      "weight": 2,
+      "name": "shadow lanthorn"
+    },
+    {
+      "weight": 1,
+      "name": "sheet of smallness"
+    },
+    {
+      "weight": 2,
+      "name": "shoes of Farlanghn"
+    },
+    {
+      "weight": 1,
+      "name": "shrouds of disintegration"
+    },
+    {
+      "weight": 1,
+      "name": "slippers of kicking"
+    },
+    {
+      "weight": 5,
+      "name": "slippers of spider climbing"
+    },
+    {
+      "weight": 1,
+      "name": "spade of colossal excavation"
+    },
+    {
+      "weight": 2,
+      "name": "spoon of stirring"
+    },
+    {
+      "weight": 3,
+      "name": "stone horse"
+    },
+    {
+      "weight": 2,
+      "name": "stone of controlling earth elementals"
+    },
+    {
+      "weight": 2,
+      "name": "stone of good luck"
+    },
+    {
+      "weight": 1,
+      "name": "stone of weight"
+    },
+    {
+      "weight": 1,
+      "name": "tome of clear thought"
+    },
+    {
+      "weight": 1,
+      "name": "tome of leadership & influence"
+    },
+    {
+      "weight": 1,
+      "name": "tome of understanding"
+    },
+    {
+      "weight": 1,
+      "name": "vacuous grimoire"
+    },
+    {
+      "weight": 1,
+      "name": "vest of escape"
+    },
+    {
+      "weight": 2,
+      "name": "vestment, druid's"
+    },
+    {
+      "weight": 2,
+      "name": "well of many worlds"
+    },
+    {
+      "weight": 2,
+      "name": "wind fan"
+    },
+    {
+      "weight": 4,
+      "name": "wings of flying"
+    },
+    {
+      "weight": 2,
+      "name": "Zagyg’s flowing flagon"
+    },
+    {
+      "weight": 3,
+      "name": "Zagyg’s spell component case"
+    }
+  ]
+}

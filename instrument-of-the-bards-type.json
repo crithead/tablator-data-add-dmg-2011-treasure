@@ -1,0 +1,35 @@
+{
+  "name": "Instrument of the Bards Type",
+  "type": "items",
+  "total-weight": 20,
+  "rows": [
+    {
+      "weight": 5,
+      "name": "Fochlucan bandore"
+    },
+    {
+      "weight": 4,
+      "name": "Mac-Fuirmidh cittern"
+    },
+    {
+      "weight": 3,
+      "name": "Doss lute"
+    },
+    {
+      "weight": 3,
+      "name": "Canaith mandolin"
+    },
+    {
+      "weight": 2,
+      "name": "Cli lyre"
+    },
+    {
+      "weight": 2,
+      "name": "Anstruth harp"
+    },
+    {
+      "weight": 1,
+      "name": "Ollamh harp"
+    }
+  ]
+}

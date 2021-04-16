@@ -1,0 +1,48 @@
+{
+  "name": "Lair Treasure Type B",
+  "type": "table-list",
+  "columns": [
+    {
+      "name": "cp",
+      "chance": 50,
+      "table": null,
+      "quantity": "1d6x1000"
+    },
+    {
+      "name": "sp",
+      "chance": 25,
+      "table": null,
+      "quantity": "1d3x1000"
+    },
+    {
+      "name": "gp",
+      "chance": 25,
+      "table": null,
+      "quantity": "2d10x100"
+    },
+    {
+      "name": "pp",
+      "chance": 25,
+      "table": null,
+      "quantity": "1d10x100"
+    },
+    {
+      "name": "gems",
+      "chance": 30,
+      "table": "gems",
+      "quantity": "1d8"
+    },
+    {
+      "name": "jewelry",
+      "chance": 20,
+      "table": "jewelry",
+      "quantity": "1d4"
+    },
+    {
+      "name": "armor or weapon",
+      "chance": 10,
+      "table": "armor-or-weapon",
+      "quantity": "1"
+    }
+  ]
+}

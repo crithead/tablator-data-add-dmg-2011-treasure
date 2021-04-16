@@ -1,0 +1,48 @@
+{
+  "name": "Lair Treasure Type A",
+  "type": "table-list",
+  "columns": [
+    {
+      "name": "cp",
+      "chance": 25,
+      "table": null,
+      "quantity": "1d3x1000"
+    },
+    {
+      "name": "sp",
+      "chance": 30,
+      "table": null,
+      "quantity": "2d10x100"
+    },
+    {
+      "name": "gp",
+      "chance": 40,
+      "table": null,
+      "quantity": "1d6x1000"
+    },
+    {
+      "name": "pp",
+      "chance": 35,
+      "table": null,
+      "quantity": "3d6x100"
+    },
+    {
+      "name": "gems",
+      "chance": 60,
+      "table": "gems",
+      "quantity": "1d4x10"
+    },
+    {
+      "name": "jewelry",
+      "chance": 50,
+      "table": "jewelry",
+      "quantity": "2d6"
+    },
+    {
+      "name": "magic item",
+      "chance": 30,
+      "table": "magic-item",
+      "quantity": "3"
+    }
+  ]
+}

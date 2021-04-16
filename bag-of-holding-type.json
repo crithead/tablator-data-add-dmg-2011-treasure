@@ -1,0 +1,23 @@
+{
+  "name": "Bag of Holding Type",
+  "type": "items",
+  "total-weight": 15,
+  "rows": [
+    {
+      "weight": 8,
+      "name": "type I"
+    },
+    {
+      "weight": 4,
+      "name": "type II"
+    },
+    {
+      "weight": 2,
+      "name": "type III"
+    },
+    {
+      "weight": 1,
+      "name": "type IV"
+    }
+  ]
+}

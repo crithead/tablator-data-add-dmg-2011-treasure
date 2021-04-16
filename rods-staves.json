@@ -1,0 +1,119 @@
+{
+  "name": "Rods & Staves",
+  "type": "items",
+  "total-weight": 99,
+  "rows": [
+    {
+      "weight": 6,
+      "name": "rod of absorption"
+    },
+    {
+      "weight": 4,
+      "name": "rod of alertness"
+    },
+    {
+      "weight": 1,
+      "name": "rod of beguiling"
+    },
+    {
+      "weight": 10,
+      "name": "rod of cancellation"
+    },
+    {
+      "weight": 5,
+      "name": "rod of flailing"
+    },
+    {
+      "weight": 1,
+      "name": "rod of lordly might"
+    },
+    {
+      "weight": 3,
+      "name": "rod of passage"
+    },
+    {
+      "weight": 1,
+      "name": "rod of resurrection"
+    },
+    {
+      "weight": 1,
+      "name": "rod of rulership"
+    },
+    {
+      "weight": 4,
+      "name": "rod of security"
+    },
+    {
+      "weight": 1,
+      "name": "rod of smiting"
+    },
+    {
+      "weight": 3,
+      "name": "rod of splendor"
+    },
+    {
+      "weight": 2,
+      "name": "staff of abjuration"
+    },
+    {
+      "weight": 1,
+      "name": "staff of command"
+    },
+    {
+      "weight": 5,
+      "name": "staff of curing"
+    },
+    {
+      "weight": 3,
+      "name": "staff of defense"
+    },
+    {
+      "weight": 3,
+      "name": "staff of divination"
+    },
+    {
+      "weight": 3,
+      "name": "staff of enchantment"
+    },
+    {
+      "weight": 3,
+      "name": "staff of evocation"
+    },
+    {
+      "weight": 2,
+      "name": "staff of necromancy"
+    },
+    {
+      "weight": 1,
+      "name": "staff of power"
+    },
+    {
+      "weight": 6,
+      "name": "staff of the serpent"
+    },
+    {
+      "weight": 9,
+      "name": "staff of striking"
+    },
+    {
+      "weight": 3,
+      "name": "staff of swarming insects"
+    },
+    {
+      "weight": 1,
+      "name": "staff of thunder & lightning"
+    },
+    {
+      "weight": 3,
+      "name": "staff of transmutation"
+    },
+    {
+      "weight": 4,
+      "name": "staff of withering"
+    },
+    {
+      "weight": 10,
+      "name": "staff of the woodlands"
+    }
+  ]
+}

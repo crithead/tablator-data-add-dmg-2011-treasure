@@ -1,0 +1,15 @@
+{
+  "name": "Lance Type",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 50,
+      "name": "heavy"
+    },
+    {
+      "weight": 50,
+      "name": "light"
+    }
+  ]
+}

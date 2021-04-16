@@ -1,0 +1,23 @@
+{
+  "name": "Manual of Golems Type",
+  "type": "items",
+  "total-weight": 4,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "clay"
+    },
+    {
+      "weight": 1,
+      "name": "flesh"
+    },
+    {
+      "weight": 1,
+      "name": "iron"
+    },
+    {
+      "weight": 1,
+      "name": "stone"
+    }
+  ]
+}

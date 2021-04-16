@@ -1,0 +1,12 @@
+{
+  "type": "table-list",
+  "name": "Lair Treasure Type X",
+  "columns": [
+    {
+      "name": "potions",
+      "chance": 100,
+      "table": "potions",
+      "quantity": "2"
+    }
+  ]
+}

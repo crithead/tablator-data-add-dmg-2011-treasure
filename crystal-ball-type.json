@@ -1,0 +1,27 @@
+{
+  "name": "Crystal Ball Type",
+  "type": "items",
+  "total-weight": 20,
+  "rows": [
+    {
+      "weight": 10,
+      "name": ""
+    },
+    {
+      "weight": 4,
+      "name": "with detect invisibility"
+    },
+    {
+      "weight": 3,
+      "name": "with ESP"
+    },
+    {
+      "weight": 2,
+      "name": "with telepathy"
+    },
+    {
+      "weight": 1,
+      "name": "with true seeing"
+    }
+  ]
+}

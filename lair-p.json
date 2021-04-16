@@ -1,0 +1,18 @@
+{
+  "type": "table-list",
+  "name": "Lair Treasure Type P",
+  "columns": [
+    {
+      "name": "sp",
+      "chance": 100,
+      "table": null,
+      "quantity": "1d6x10"
+    },
+    {
+      "name": "pp",
+      "chance": 100,
+      "table": null,
+      "quantity": "1d20"
+    }
+  ]
+}

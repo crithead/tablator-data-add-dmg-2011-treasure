@@ -1,0 +1,39 @@
+{
+  "name": "Scroll Curse",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 25,
+      "name": "reader polymorphed to monster of equal level which attacks any creatures nearby"
+    },
+    {
+      "weight": 5,
+      "name": "reader polymorphed into liquid and drains away"
+    },
+    {
+      "weight": 10,
+      "name": "reader and all within 20' radius teleported 2d6x100 miles away in a random direction"
+    },
+    {
+      "weight": 10,
+      "name": "reader and all within 20' radius plane shifted to another plane, planet, or continuum "
+    },
+    {
+      "weight": 25,
+      "name": "reader contracts fatal disease which must be cured within one day"
+    },
+    {
+      "weight": 15,
+      "name": "explosive runes"
+    },
+    {
+      "weight": 9,
+      "name": "random magic item on reader is 'de-magicked' through Mordenkainen's disjunction"
+    },
+    {
+      "weight": 1,
+      "name": "randomly rolled spell affects reader (caster level 12)"
+    }
+  ]
+}

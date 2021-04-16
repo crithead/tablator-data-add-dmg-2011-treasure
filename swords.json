@@ -1,0 +1,164 @@
+{
+  "name": "Swords",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 25,
+      "name": "sword +1",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 4,
+      "name": "sword +1, flame-tongue",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 1,
+      "name": "sword +1, luck blade",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 4,
+      "name": "sword +1, +3 vs lycanthropes & shape-changers ",
+      "subtable": "sword-type"
+    },
+    {
+      "weight":4,
+      "name": "sword +1, +3 vs magic-using & enchanted creatures",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 4,
+      "name": "sword +1, +3 vs regenerating creatures",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 4,
+      "name": "sword +1, +3 vs reptiles",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 10,
+      "name": "sword +2",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 2,
+      "name": "sword +2, dragon slayer",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 2,
+      "name": "sword +2, giant slayer",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 2,
+      "name": "sword +2, nine-lives stealer",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 5,
+      "name": "sword +3",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 2,
+      "name": "sword +3, frost brand",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 3,
+      "name": "sword +4",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 1,
+      "name": "sword +4, defender",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 2,
+      "name": "sword +5",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 1,
+      "name": "sword +5, defender",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 1,
+      "name": "sword +5, holy avenger",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 1,
+      "name": "hornblade",
+      "subtable": "sword-hornblade"
+    },
+    {
+      "weight": 3,
+      "name": "sun sword"
+    },
+    {
+      "weight": 1,
+      "name": "sword, 'final word'",
+      "subtable": "sword-final-word"
+    },
+    {
+      "weight": 2,
+      "name": "sword of dancing",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 1,
+      "name": "sword of life stealing",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 2,
+      "name": "sword of the planes (broad)"
+    },
+    {
+      "weight": 2,
+      "name": "sword of sharpness",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 2,
+      "name": "sword of subtlety",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 2,
+      "name": "sword of wounding",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 3,
+      "name": "sword of quickness (short)"
+    },
+    {
+      "weight": 1,
+      "name": "sword, vorpal weapon",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 1,
+      "name": "sword +1, cursed",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 1,
+      "name": "sword +2, cursed berserking",
+      "subtable": "sword-type"
+    },
+    {
+      "weight": 1,
+      "name": "sword -2, cursed",
+      "subtable": "sword-type"
+    }
+  ]
+}

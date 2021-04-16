@@ -1,0 +1,31 @@
+{
+  "name": "Giants",
+  "type": "items",
+  "total-weight": 21,
+  "rows": [
+    {
+      "weight": 6,
+      "name": "Hill Giant"
+    },
+    {
+      "weight": 5,
+      "name": "Stone Giant"
+    },
+    {
+      "weight": 4,
+      "name": "Frost Giant"
+    },
+    {
+      "weight": 3,
+      "name": "Fire Giant"
+    },
+    {
+      "weight": 2,
+      "name": "Cloud Giant"
+    },
+    {
+      "weight": 1,
+      "name": "Storm Giant"
+    }
+  ]
+}

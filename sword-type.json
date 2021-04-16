@@ -1,0 +1,31 @@
+{
+  "name": "Sword Type",
+  "type": "items",
+  "total-weight": 20,
+  "rows": [
+    {
+      "weight": 9,
+      "name": "long"
+    },
+    {
+      "weight": 4,
+      "name": "broad"
+    },
+    {
+      "weight": 1,
+      "name": "scimitar"
+    },
+    {
+      "weight": 3,
+      "name": "short"
+    },
+    {
+      "weight": 1,
+      "name": "bastard"
+    },
+    {
+      "weight": 2,
+      "name": "two-handed"
+    }
+  ]
+}

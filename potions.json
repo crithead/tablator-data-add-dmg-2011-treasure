@@ -1,0 +1,272 @@
+{
+  "name": "Potions",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "potion of animal control"
+    },
+    {
+      "weight": 1,
+      "name": "potion of clairaudience"
+    },
+    {
+      "weight": 1,
+      "name": "potion of clairvoyance"
+    },
+    {
+      "weight": 2,
+      "name": "potion of climbing"
+    },
+    {
+      "weight": 1,
+      "name": "potion of delusion",
+      "subtable": "potions"
+    },
+    {
+      "weight": 2,
+      "name": "potion of dimunition"
+    },
+    {
+      "weight": 1,
+      "name": "potion of dragon control"
+    },
+    {
+      "weight": 1,
+      "name": "dust of appearance"
+    },
+    {
+      "weight": 1,
+      "name": "dust of disappearance"
+    },
+    {
+      "weight": 1,
+      "name": "dust of dryness"
+    },
+    {
+      "weight": 1,
+      "name": "dust of illusion"
+    },
+    {
+      "weight": 1,
+      "name": "dust of sneezing and choking"
+    },
+    {
+      "weight": 1,
+      "name": "dust of timelessness"
+    },
+    {
+      "weight": 2,
+      "name": "elixir of health"
+    },
+    {
+      "weight": 1,
+      "name": "elixir of life"
+    },
+    {
+      "weight": 1,
+      "name": "elixir of madness"
+    },
+    {
+      "weight": 1,
+      "name": "elixir of youth"
+    },
+    {
+      "weight": 2,
+      "name": "potion of esp"
+    },
+    {
+      "weight": 3,
+      "name": "potion of extra healing"
+    },
+    {
+      "weight": 1,
+      "name": "potion of fire breath"
+    },
+    {
+      "weight": 2,
+      "name": "potion of fire resistance"
+    },
+    {
+      "weight": 2,
+      "name": "potion of flying"
+    },
+    {
+      "weight": 2,
+      "name": "potion of gaseous form"
+    },
+    {
+      "weight": 1,
+      "name": "potion of giant control"
+    },
+    {
+      "weight": 2,
+      "name": "potion of giant strength",
+      "subtable": "giants"
+    },
+    {
+      "weight": 2,
+      "name": "potion of growth"
+    },
+    {
+      "weight": 4,
+      "name": "potion of healing"
+    },
+    {
+      "weight": 2,
+      "name": "potion of heroism"
+    },
+    {
+      "weight": 1,
+      "name": "potion of human control"
+    },
+    {
+      "weight": 2,
+      "name": "potion of invisibility"
+    },
+    {
+      "weight": 2,
+      "name": "potion of invulnerability"
+    },
+    {
+      "weight": 2,
+      "name": "Keotom's ointment"
+    },
+    {
+      "weight": 3,
+      "name": "potion of levitation"
+    },
+    {
+      "weight": 1,
+      "name": "potion of longevity"
+    },
+    {
+      "weight": 1,
+      "name": "Nolzur's marvelous pigment"
+    },
+    {
+      "weight": 1,
+      "name": "oil of acid resistance"
+    },
+    {
+      "weight": 1,
+      "name": "oil of disenchantment"
+    },
+    {
+      "weight": 1,
+      "name": "oil of elemental invulnerability"
+    },
+    {
+      "weight": 2,
+      "name": "oil of etherealness"
+    },
+    {
+      "weight": 1,
+      "name": "oil of fiery burning"
+    },
+    {
+      "weight": 1,
+      "name": "oil of fumbling",
+      "subtable": "potions"
+    },
+    {
+      "weight": 1,
+      "name": "oil of impact"
+    },
+    {
+      "weight": 1,
+      "name": "oil of sharpness"
+    },
+    {
+      "weight": 2,
+      "name": "oil of slipperiness"
+    },
+    {
+      "weight": 1,
+      "name": "oil of timelessness"
+    },
+    {
+      "weight": 1,
+      "name": "philter of beauty"
+    },
+    {
+      "weight": 1,
+      "name": "philter of glibness"
+    },
+    {
+      "weight": 1,
+      "name": "philter of love"
+    },
+    {
+      "weight": 2,
+      "name": "philter of persuasiveness"
+    },
+    {
+      "weight": 1,
+      "name": "philter of stammering & stuttering",
+      "subtable": "potions"
+    },
+    {
+      "weight": 1,
+      "name": "potion of plant control"
+    },
+    {
+      "weight": 2,
+      "name": "potion of polymorph"
+    },
+    {
+      "weight": 2,
+      "name": "potion of poison",
+      "subtable": "potions"
+    },
+    {
+      "weight": 1,
+      "name": "potion of rainbow hues"
+    },
+    {
+      "weight": 1,
+      "name": "potion of silversheen"
+    },
+    {
+      "weight": 1,
+      "name": "sovereign glue"
+    },
+    {
+      "weight": 3,
+      "name": "potion of speed"
+    },
+    {
+      "weight": 2,
+      "name": "potion of super-heroism"
+    },
+    {
+      "weight": 2,
+      "name": "potion of sweet water"
+    },
+    {
+      "weight": 3,
+      "name": "potion of treasure finding"
+    },
+    {
+      "weight": 1,
+      "name": "potion of ultimate solution"
+    },
+    {
+      "weight": 1,
+      "name": "potion of undead control"
+    },
+    {
+      "weight": 2,
+      "name": "potion of ventriloquism"
+    },
+    {
+      "weight": 2,
+      "name": "potion of vitality"
+    },
+    {
+      "weight": 3,
+      "name": "potion of water breathing"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "Non-Weapon Magic Item",
+  "type": "tables",
+  "total-weight": 75,
+  "rows": [
+    {
+      "weight": 18,
+      "table": "potions"
+    },
+    {
+      "weight": 14,
+      "table": "scrolls"
+    },
+    {
+      "weight": 4,
+      "table": "rings"
+    },
+    {
+      "weight":5,
+      "table": "rods-staves"
+    },
+    {
+      "weight": 4,
+      "table": "wands"
+    },
+    {
+      "weight": 3,
+      "table": "misc-magic-a"
+    },
+    {
+      "weight": 3,
+      "table": "misc-magic-b"
+    },
+    {
+      "weight": 3,
+      "table": "misc-magic-c"
+    },
+    {
+      "weight": 3,
+      "table": "misc-magic-d"
+    },
+    {
+      "weight": 3,
+      "table": "misc-magic-e"
+    },
+    {
+      "weight": 15,
+      "table": "armor-shields"
+    }
+  ]
+}

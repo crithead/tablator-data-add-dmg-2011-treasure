@@ -1,0 +1,184 @@
+{
+  "name": "Rings",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 5,
+      "name": "ring of animal friendship"
+    },
+    {
+      "weight": 5,
+      "name": "ring of blinking"
+    },
+    {
+      "weight": 1,
+      "name": "ring of Boccob"
+    },
+    {
+      "weight": 2,
+      "name": "ring of chameleon power"
+    },
+    {
+      "weight": 2,
+      "name": "ring of clumsiness",
+      "subtable": "ring-contrariness"
+    },
+    {
+      "weight": 4,
+      "name": "ring of contrariness"
+    },
+    {
+      "weight": 2,
+      "name": "ring of counterspells"
+    },
+    {
+      "weight": 3,
+      "name": "ring of delusion"
+    },
+    {
+      "weight": 1,
+      "name": "ring of djinni summoning"
+    },
+    {
+      "weight": 1,
+      "name": "ring of elemental command",
+      "subtable": "ring-elements"
+    },
+    {
+      "weight": 1,
+      "name": "ring of energy resistance (acid)"
+    },
+    {
+      "weight": 2,
+      "name": "ring of energy resistance (cold)"
+    },
+    {
+      "weight": 2,
+      "name": "ring of energy resistance (electricity)"
+    },
+    {
+      "weight": 4,
+      "name": "ring of energy resistance (fire)"
+    },
+    {
+      "weight": 1,
+      "name": "ring of energy resistance (sonic)"
+    },
+    {
+      "weight": 1,
+      "name": "ring of faerie"
+    },
+    {
+      "weight": 5,
+      "name": "ring of feather falling"
+    },
+    {
+      "weight": 3,
+      "name": "ring of force shield"
+    },
+    {
+      "weight": 3,
+      "name": "ring of free action"
+    },
+    {
+      "weight": 2,
+      "name": "ring of human influence"
+    },
+    {
+      "weight": 4,
+      "name": "ring of invisibility"
+    },
+    {
+      "weight": 2,
+      "name": "ring of jumping"
+    },
+    {
+      "weight": 1,
+      "name": "ring of mammal control"
+    },
+    {
+      "weight": 2,
+      "name": "ring of mind shielding"
+    },
+    {
+      "weight": 1,
+      "name": "ring of multiple wishes",
+      "subtable": "ring-wishes"
+    },
+    {
+      "weight": 8,
+      "name": "ring of protection",
+      "subtable": "ring-of-protection-type"
+    },
+    {
+      "weight": 2,
+      "name": "ring of the ram"
+    },
+    {
+      "weight": 1,
+      "name": "ring of regeneration"
+    },
+    {
+      "weight": 3,
+      "name": "ring of shocking grasp"
+    },
+    {
+      "weight": 2,
+      "name": "ring of shooting stars"
+    },
+    {
+      "weight": 2,
+      "name": "ring of spell storing"
+    },
+    {
+      "weight": 2,
+      "name": "ring of spell turning"
+    },
+    {
+      "weight": 3,
+      "name": "ring of sustenance"
+    },
+    {
+      "weight": 3,
+      "name": "ring of swimming"
+    },
+    {
+      "weight": 2,
+      "name": "ring of telekinesis"
+    },
+    {
+      "weight": 2,
+      "name": "ring of three wishes"
+    },
+    {
+      "weight": 1,
+      "name": "ring of truth"
+    },
+    {
+      "weight": 1,
+      "name": "ring of vampiric regeneration"
+    },
+    {
+      "weight": 4,
+      "name": "ring of warmth"
+    },
+    {
+      "weight": 1,
+      "name": "ring of water walking"
+    },
+    {
+      "weight": 1,
+      "name": "ring of weakness"
+    },
+    {
+      "weight": 1,
+      "name": "ring of wizardry",
+      "subtable": "ring-wizardry"
+    },
+    {
+      "weight": 1,
+      "name": "ring of x-ray vision"
+    }
+  ]
+}

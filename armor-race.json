@@ -1,0 +1,15 @@
+{
+  "name": "Armor Race",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 75,
+      "name": "medium"
+    },
+    {
+      "weight": 25,
+      "name": "small"
+    }
+  ]
+}

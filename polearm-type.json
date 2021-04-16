@@ -1,0 +1,31 @@
+{
+  "name": "Polearm Type",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 25,
+      "name": "halberd"
+    },
+    {
+      "weight": 15,
+      "name": "glaive"
+    },
+    {
+      "weight": 15,
+      "name": "guisarme"
+    },
+    {
+      "weight": 15,
+      "name": "lucern hammer"
+    },
+    {
+      "weight": 15,
+      "name": "military fork"
+    },
+    {
+      "weight": 15,
+      "name": "ranseur"
+    }
+  ]
+}

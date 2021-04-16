@@ -1,0 +1,31 @@
+{
+  "name": "Girdle of Giant Strength Type",
+  "type": "items",
+  "total-weight": 167,
+  "rows": [
+    {
+      "weight": 50,
+      "name": "hill giant"
+    },
+    {
+      "weight": 40,
+      "name": "stone giant"
+    },
+    {
+      "weight": 30,
+      "name": "frost giant"
+    },
+    {
+      "weight": 20,
+      "name": "fire giant"
+    },
+    {
+      "weight": 15,
+      "name": "cloud giant"
+    },
+    {
+      "weight": 12,
+      "name": "storm giant"
+    }
+  ]
+}

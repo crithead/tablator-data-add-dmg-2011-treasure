@@ -1,0 +1,206 @@
+{
+  "name": "Miscellaneous Magic Items D",
+  "type": "items",
+  "total-weight": 98,
+  "rows": [
+    {
+      "weight": 6,
+      "name": "instrument of the bards",
+      "subtable": "instrument-of-the-bards-type"
+    },
+    {
+      "weight": 1,
+      "name": "iron bands of Bilarro"
+    },
+    {
+      "weight": 1,
+      "name": "jewel of attacks"
+    },
+    {
+      "weight": 1,
+      "name": "jewel of flawlessness"
+    },
+    {
+      "weight": 2,
+      "name": "lantern of revealing"
+    },
+    {
+      "weight": 2,
+      "name": "lens of darkvision"
+    },
+    {
+      "weight": 2,
+      "name": "lens of detection"
+    },
+    {
+      "weight": 1,
+      "name": "libram of gainful conjuration"
+    },
+    {
+      "weight": 1,
+      "name": "libram of ineffable damnation"
+    },
+    {
+      "weight": 1,
+      "name": "libram of silver magic"
+    },
+    {
+      "weight": 1,
+      "name": "lyre of building"
+    },
+    {
+      "weight": 1,
+      "name": "mantle of Celestian"
+    },
+    {
+      "weight": 2,
+      "name": "mantle of magic resistance"
+    },
+    {
+      "weight": 1,
+      "name": "manual of bodily health"
+    },
+    {
+      "weight": 1,
+      "name": "manual of gainful exercise"
+    },
+    {
+      "weight": 1,
+      "name": "manual of golems",
+      "subtable": "manual-of-golems-type"
+    },
+    {
+      "weight": 1,
+      "name": "manual of puissant skill at arms"
+    },
+    {
+      "weight": 1,
+      "name": "manual of quickness of action"
+    },
+    {
+      "weight": 1,
+      "name": "manual of stealthy pilfering"
+    },
+    {
+      "weight": 1,
+      "name": "mask of the skull"
+    },
+    {
+      "weight": 1,
+      "name": "mattock of the titans"
+    },
+    {
+      "weight": 1,
+      "name": "maul of the titans"
+    },
+    {
+      "weight": 3,
+      "name": "medallion of ESP"
+    },
+    {
+      "weight": 1,
+      "name": "medallion of thought projection"
+    },
+    {
+      "weight": 1,
+      "name": "mirror of life trapping"
+    },
+    {
+      "weight": 1,
+      "name": "mirror of mental prowess"
+    },
+    {
+      "weight": 1,
+      "name": "mirror of opposition"
+    },
+    {
+      "weight": 2,
+      "name": "Murlynd's spoon"
+    },
+    {
+      "weight": 3,
+      "name": "necklace of adaptation"
+    },
+    {
+      "weight": 5,
+      "name": "necklace of missiles",
+      "subtable": "necklace-of-missiles-type"
+    },
+    {
+      "weight": 5,
+      "name": "necklace of prayer beads"
+    },
+    {
+      "weight": 1,
+      "name": "necklace of strangulation"
+    },
+    {
+      "weight": 1,
+      "name": "orb of storms"
+    },
+    {
+      "weight": 3,
+      "name": "pearl of power"
+    },
+    {
+      "weight": 1,
+      "name": "pearl of sirines"
+    },
+    {
+      "weight": 1,
+      "name": "pearl of wisdom"
+    },
+    {
+      "weight": 1,
+      "name": "periapt of foul rotting"
+    },
+    {
+      "weight": 2,
+      "name": "periapt of health"
+    },
+    {
+      "weight": 5,
+      "name": "periapt of proof against poison"
+    },
+    {
+      "weight": 5,
+      "name": "periapt of wound closure"
+    },
+    {
+      "weight": 5,
+      "name": "phylactery of faithfulness"
+    },
+    {
+      "weight": 4,
+      "name": "phylactery of long years"
+    },
+    {
+      "weight": 1,
+      "name": "phylactery of monstrous attention"
+    },
+    {
+      "weight": 1,
+      "name": "pipes of haunting"
+    },
+    {
+      "weight": 1,
+      "name": "pipes of pain"
+    },
+    {
+      "weight": 7,
+      "name": "pipes of the sewers"
+    },
+    {
+      "weight": 1,
+      "name": "pipes of sounding"
+    },
+    {
+      "weight": 1,
+      "name": "portable hole"
+    },
+    {
+      "weight": 4,
+      "name": "pouch of accessibility"
+    }
+  ]
+}

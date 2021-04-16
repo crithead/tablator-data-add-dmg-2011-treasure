@@ -1,0 +1,209 @@
+{
+  "name": "Miscellaneous Weapons B",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "hammer +3, dwarven thrower"
+    },
+    {
+      "weight": 1,
+      "name": "hammer +4"
+    },
+    {
+      "weight": 1,
+      "name": "hammer of thunderbolts"
+    },
+    {
+      "weight": 4,
+      "name": "javelin +1",
+      "quantity": "1"
+    },
+    {
+      "weight": 3,
+      "name": "javelin +2",
+      "quantity": "1"
+    },
+    {
+      "weight": 1,
+      "name": "javelin +3",
+      "quantity": "1"
+    },
+    {
+      "weight": 1,
+      "name": "javelin of lightning"
+    },
+    {
+      "weight": 1,
+      "name": "javelin of piercing"
+    },
+    {
+      "weight": 5,
+      "name": "lance +1",
+      "subtable": "lance-type"
+    },
+    {
+      "weight": 3,
+      "name": "lance +2",
+      "subtable": "lance-type"
+    },
+    {
+      "weight": 5,
+      "name": "mace +1",
+      "subtable": "mace-type"
+    },
+    {
+      "weight": 3,
+      "name": "mace +2",
+      "subtable": "mace-type"
+    },
+    {
+      "weight": 2,
+      "name": "mace +3",
+      "subtable": "mace-type"
+    },
+    {
+      "weight": 1,
+      "name": "mace of disruption",
+      "subtable": "mace-type"
+    },
+    {
+      "weight": 1,
+      "name": "mace of terror",
+      "subtable": "mace-type"
+    },
+    {
+      "weight": 4,
+      "name": "morningstar +1",
+      "subtable": "mace-type"
+    },
+    {
+      "weight": 2,
+      "name": "morningstar +2",
+      "subtable": "mace-type"
+    },
+    {
+      "weight": 1,
+      "name": "net of snaring"
+    },
+    {
+      "weight": 4,
+      "name": "pick +1"
+    },
+    {
+      "weight": 2,
+      "name": "pick +2"
+    },
+    {
+      "weight": 5,
+      "name": "polearm +1",
+      "subtable": "polearm-type"
+    },
+    {
+      "weight": 3,
+      "name": "polearm +2",
+      "subtable": "polearm-type"
+    },
+    {
+      "weight": 4,
+      "name": "quarterstaff +1"
+    },
+    {
+      "weight": 3,
+      "name": "quarterstaff +2"
+    },
+    {
+      "weight": 1,
+      "name": "quarterstaff, bronzewood, +3"
+    },
+    {
+      "weight": 3,
+      "name": "scythe +1"
+    },
+    {
+      "weight": 2,
+      "name": "scythe +2"
+    },
+    {
+      "weight": 3,
+      "name": "sickle +1"
+    },
+    {
+      "weight": 2,
+      "name": "sickle +2"
+    },
+    {
+      "weight": 2,
+      "name": "sling +1"
+    },
+    {
+      "weight": 1,
+      "name": "sling of seeking"
+    },
+    {
+      "weight": 4,
+      "name": "spear +1",
+      "subtable": "spear-type"
+    },
+    {
+      "weight": 3,
+      "name": "spear +2",
+      "subtable": "spear-type"
+    },
+    {
+      "weight": 1,
+      "name": "spear +3",
+      "subtable": "spear-type"
+    },
+    {
+      "weight": 2,
+      "name": "spear, cursed backbiter",
+      "subtable": "spear-type"
+    },
+    {
+      "weight": 1,
+      "name": "staff-mace"
+    },
+    {
+      "weight": 1,
+      "name": "staff-sling"
+    },
+    {
+      "weight": 1,
+      "name": "staff-spear"
+    },
+    {
+      "weight": 3,
+      "name": "trident +1"
+    },
+    {
+      "weight": 2,
+      "name": "trident +2"
+    },
+    {
+      "weight": 1,
+      "name": "trident, military fork, +3"
+    },
+    {
+      "weight": 1,
+      "name": "trident of fish command"
+    },
+    {
+      "weight": 1,
+      "name": "trident of submission"
+    },
+    {
+      "weight": 1,
+      "name": "trident of warning"
+    },
+    {
+      "weight": 1,
+      "name": "trident of yearning"
+    },
+    {
+      "weight": 2,
+      "name": "whip +1"
+    }
+  ]
+}

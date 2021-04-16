@@ -1,0 +1,43 @@
+{
+  "name": "Final World Type",
+  "type": "items",
+  "total-weight": 9,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "broad, Answerer"
+    },
+    {
+      "weight": 1,
+      "name": "broad, Back-talker"
+    },
+    {
+      "weight": 1,
+      "name": "broad, Concluder"
+    },
+    {
+      "weight": 1,
+      "name": "broad, Lastquip"
+    },
+    {
+      "weight": 1,
+      "name": "broad, Rebutter"
+    },
+    {
+      "weight": 1,
+      "name": "broad, Replier"
+    },
+    {
+      "weight": 1,
+      "name": "broad, Retorter"
+    },
+    {
+      "weight": 1,
+      "name": "broad, Scather"
+    },
+    {
+      "weight": 1,
+      "name": "broad, Squelcher"
+    }
+  ]
+}

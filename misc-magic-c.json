@@ -1,0 +1,171 @@
+{
+  "name": "Miscellaneous Magic Items C",
+  "type": "items",
+  "total-weight": 98,
+  "rows": [
+    {
+      "weight": 12,
+      "name": "figurine of wondrous power",
+      "subtable": "figurine-type"
+    },
+    {
+      "weight": 1,
+      "name": "flask of curses"
+    },
+    {
+      "weight": 2,
+      "name": "gauntlets of dexterity"
+    },
+    {
+      "weight": 1,
+      "name": "gauntlets of fumbling"
+    },
+    {
+      "weight": 2,
+      "name": "gauntlets of ogre power"
+    },
+    {
+      "weight": 1,
+      "name": "gauntlets of rust"
+    },
+    {
+      "weight": 2,
+      "name": "gauntlets of swimming & climbing"
+    },
+    {
+      "weight": 1,
+      "name": "gem of brightness"
+    },
+    {
+      "weight": 2,
+      "name": "gem of insight"
+    },
+    {
+      "weight": 1,
+      "name": "gem of seeing"
+    },
+    {
+      "weight": 2,
+      "name": "girdle of dwarven kind"
+    },
+    {
+      "weight": 1,
+      "name": "girdle of femininity/masculinity"
+    },
+    {
+      "weight": 1,
+      "name": "girdle of giant strength",
+      "subtable": "girdle-of-giant-strength-type"
+    },
+    {
+      "weight": 4,
+      "name": "girdle of many pouches"
+    },
+    {
+      "weight": 2,
+      "name": "gloves of missile snaring"
+    },
+    {
+      "weight": 3,
+      "name": "gloves of thievery"
+    },
+    {
+      "weight": 1,
+      "name": "hand of glory"
+    },
+    {
+      "weight": 1,
+      "name": "harp of charming"
+    },
+    {
+      "weight": 3,
+      "name": "hat of difference"
+    },
+    {
+      "weight": 5,
+      "name": "hat of disguise"
+    },
+    {
+      "weight": 2,
+      "name": "hat of stupidity"
+    },
+    {
+      "weight": 1,
+      "name": "helm of brilliance"
+    },
+    {
+      "weight": 5,
+      "name": "helm of comprehend languages & read magic"
+    },
+    {
+      "weight": 1,
+      "name": "help of opposite alignment"
+    },
+    {
+      "weight": 1,
+      "name": "helm of telepathy"
+    },
+    {
+      "weight": 1,
+      "name": "helm of teleportation"
+    },
+    {
+      "weight": 2,
+      "name": "helm of underwater action"
+    },
+    {
+      "weight": 4,
+      "name": "Heward's handy haversack"
+    },
+    {
+      "weight": 1,
+      "name": "horn of blasting"
+    },
+    {
+      "weight": 2,
+      "name": "horn of bubbles"
+    },
+    {
+      "weight": 1,
+      "name": "horn of collapsing"
+    },
+    {
+      "weight": 5,
+      "name": "horn of fog"
+    },
+    {
+      "weight": 1,
+      "name": "horn of goodness/evil"
+    },
+    {
+      "weight": 4,
+      "name": "horn of tritons"
+    },
+    {
+      "weight": 7,
+      "name": "horn of Valhalla",
+      "subtable": "horn-of-valhalla-type"
+    },
+    {
+      "weight": 3,
+      "name": "horseshoes of speed"
+    },
+    {
+      "weight": 2,
+      "name": "horseshoes of a zephyr"
+    },
+    {
+      "weight": 5,
+      "name": "incense of meditation"
+    },
+    {
+      "weight": 1,
+      "name": "incense of obsession"
+    },
+    {
+      "weight": 1,
+      "name": "ioun stones",
+      "subtable": "ioun-stone-type"
+    }
+  ]
+}

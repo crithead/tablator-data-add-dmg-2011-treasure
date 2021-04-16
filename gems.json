@@ -1,0 +1,103 @@
+{
+  "name": "Gems",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 15,
+      "name": "average ornamental gem",
+      "value": "10",
+      "subtable": "gem-ornamental-type"
+    },
+    {
+      "weight": 10,
+      "name": "small semi-precious gem",
+      "value": "10",
+      "subtable": "gem-semi-precious-type"
+    },
+    {
+      "weight": 5,
+      "name": "very small gem",
+      "value": "50",
+      "subtable": "gem-fancy-type"
+    },
+    {
+      "weight": 10,
+      "name": "small gem",
+      "value": "50",
+      "subtable": "gem-fancy-type"
+    },
+    {
+      "weight": 10,
+      "name": "large gem",
+      "value": "50",
+      "subtable": "gem-ornamental-type"
+    },
+    {
+      "weight": 5,
+      "name": "huge ornamental gem",
+      "value": "100",
+      "subtable": "gem-ornamental-type"
+    },
+    {
+      "weight": 5,
+      "name": "large semi-precious gem",
+      "value": "100",
+      "subtable": "gem-ornamental-type"
+    },
+    {
+      "weight": 5,
+      "name": "average fancy gem",
+      "value": "100",
+      "subtable": "gem-fancy-type"
+    },
+    {
+      "weight": 5,
+      "name": "very small jewel",
+      "value": "100",
+      "subtable": "gem-jewel-type"
+    },
+    {
+      "weight": 5,
+      "name": "very large semi-precious gem",
+      "value": "500",
+      "subtable": "gem-ornamental-type"
+    },
+    {
+      "weight": 10,
+      "name": "large precious gem",
+      "value": "500",
+      "subtable": "gem-fancy-type"
+    },
+    {
+      "weight": 5,
+      "name": "small jewel",
+      "value": "500",
+      "subtable": "gem-jewel-type"
+    },
+    {
+      "weight": 3,
+      "name": "huge fancy gem",
+      "value": "1,000",
+      "subtable": "gem-fancy-type"
+    },
+    {
+      "weight": 3,
+      "name": "very large precious gem",
+      "value": "1,000",
+      "subtable": "gem-fancy-type"
+    },
+    {
+      "weight": 3,
+      "name": "small jewel",
+      "value": "1,000",
+      "subtable": "gem-jewel-type"
+    },
+    {
+      "weight": 1,
+      "name": "huge jewel",
+      "value": "5,000",
+      "subtable": "gem-jewel-type"
+    }
+  ]
+}

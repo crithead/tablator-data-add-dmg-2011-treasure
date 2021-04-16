@@ -1,0 +1,12 @@
+{
+  "type": "table-list",
+  "name": "Lair Treasure Type V",
+  "columns": [
+    {
+      "name": "any",
+      "chance": 100,
+      "table": "magic-item",
+      "quantity": "2"
+    }
+  ]
+}

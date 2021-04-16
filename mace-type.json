@@ -1,0 +1,15 @@
+{
+  "name": "Mace Type",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 50,
+      "name": "footman"
+    },
+    {
+      "weight": 50,
+      "name": "horseman"
+    }
+  ]
+}

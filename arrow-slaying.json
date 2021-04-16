@@ -1,0 +1,87 @@
+{
+  "name": "Slaying Type",
+  "type": "items",
+  "total-weight": 20,
+  "rows": [
+    {
+      "weight": 1,
+      "name": "aberrations"
+    },
+    {
+      "weight": 1,
+      "name": "amphibians"
+    },
+    {
+      "weight": 1,
+      "name": "arachnids"
+    },
+    {
+      "weight": 1,
+      "name": "avians"
+    },
+    {
+      "weight": 1,
+      "name": "dragons"
+    },
+    {
+      "weight": 1,
+      "name": "dwarves"
+    },
+    {
+      "weight": 1,
+      "name": "elves"
+    },
+    {
+      "weight": 1,
+      "name": "evil extraplanular creatures"
+    },
+    {
+      "weight": 1,
+      "name": "good extraplanular creatures"
+    },
+    {
+      "weight": 1,
+      "name": "neutral extraplanular creatures"
+    },
+    {
+      "weight": 1,
+      "name": "faeries"
+    },
+    {
+      "weight": 1,
+      "name": "giants"
+    },
+    {
+      "weight": 1,
+      "name": "goblinoids"
+    },
+    {
+      "weight": 1,
+      "name": "golems"
+    },
+    {
+      "weight": 1,
+      "name": "halflings"
+    },
+    {
+      "weight": 1,
+      "name": "humans"
+    },
+    {
+      "weight": 1,
+      "name": "mammals (animals)"
+    },
+    {
+      "weight": 1,
+      "name": "orcs"
+    },
+    {
+      "weight": 1,
+      "name": "reptiles"
+    },
+    {
+      "weight": 1,
+      "name": "sea monsters"
+    }
+  ]
+}

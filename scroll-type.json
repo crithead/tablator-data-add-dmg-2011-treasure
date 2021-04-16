@@ -1,0 +1,24 @@
+{
+  "name": "Scroll Type",
+  "type": "items",
+  "total-weight": 100,
+  "#comment": "illusionist/druid rows not in original table",
+  "rows": [
+    {
+      "weight": 60,
+      "name": "magic-user"
+    },
+    {
+      "weight": 10,
+      "name": "illusionist"
+    },
+    {
+      "weight": 25,
+      "name": "cleric"
+    },
+    {
+      "weight": 5,
+      "name": "druid"
+    }
+  ]
+}

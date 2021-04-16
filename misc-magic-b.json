@@ -1,0 +1,173 @@
+{
+  "name": "Miscellaneous Magic Items B",
+  "type": "items",
+  "total-weight": 100,
+  "rows": [
+    {
+      "weight": 3,
+      "name": "candle of invocation"
+    },
+    {
+      "weight": 2,
+      "name": "candle of truth"
+    },
+    {
+      "weight": 2,
+      "name": "cape of the mountebank"
+    },
+    {
+      "weight": 2,
+      "name": "carpet of flying"
+    },
+    {
+      "weight": 2,
+      "name": "censer of controlling air elementals"
+    },
+    {
+      "weight": 1,
+      "name": "censer of summoning hostile air elementals"
+    },
+    {
+      "weight": 1,
+      "name": "chaos diamond"
+    },
+    {
+      "weight": 1,
+      "name": "chime of hunger"
+    },
+    {
+      "weight": 1,
+      "name": "chime of interruption"
+    },
+    {
+      "weight": 2,
+      "name": "chime of opening"
+    },
+    {
+      "weight": 1,
+      "name": "circle of persuasion"
+    },
+    {
+      "weight": 1,
+      "name": "cloak of arachnidia"
+    },
+    {
+      "weight": 3,
+      "name": "cloak of the bat"
+    },
+    {
+      "weight": 4,
+      "name": "cloak of displacement"
+    },
+    {
+      "weight": 7,
+      "name": "cloak of elvenkind"
+    },
+    {
+      "weight": 1,
+      "name": "cloak of etherealness"
+    },
+    {
+      "weight": 3,
+      "name": "cloak of the manta ray"
+    },
+    {
+      "weight": 1,
+      "name": "cloak of poisonousness"
+    },
+    {
+      "weight": 26,
+      "name": "cloak of protection",
+      "subtable": "cloak-of-protection-type"
+    },
+    {
+      "weight": 5,
+      "name": "crystal ball",
+      "subtable": "crystal-ball-type"
+    },
+    {
+      "weight": 3,
+      "name": "cube of force"
+    },
+    {
+      "weight": 2,
+      "name": "cube of frost resistance"
+    },
+    {
+      "weight": 2,
+      "name": "cubic gate"
+    },
+    {
+      "weight": 1,
+      "name": "cyclocone"
+    },
+    {
+      "weight": 2,
+      "name": "Daern's instant fortress"
+    },
+    {
+      "weight": 3,
+      "name": "decanter of endless water"
+    },
+    {
+      "weight": 1,
+      "name": "deck of illusions"
+    },
+    {
+      "weight": 1,
+      "name": "dicerion of light & darkness"
+    },
+    {
+      "weight": 1,
+      "name": "dimensional shackles"
+    },
+    {
+      "weight": 1,
+      "name": "drums of deafening"
+    },
+    {
+      "weight": 2,
+      "name": "drums of panic"
+    },
+    {
+      "weight": 1,
+      "name": "efreeti bottle"
+    },
+    {
+      "weight": 1,
+      "name": "egg of desire"
+    },
+    {
+      "weight": 1,
+      "name": "egg of reason"
+    },
+    {
+      "weight": 1,
+      "name": "egg of shattering"
+    },
+    {
+      "weight": 1,
+      "name": "eversmoking bottle"
+    },
+    {
+      "weight": 1,
+      "name": "eyes of charming"
+    },
+    {
+      "weight": 1,
+      "name": "eyes of doom"
+    },
+    {
+      "weight": 2,
+      "name": "eyes of the eagle"
+    },
+    {
+      "weight": 2,
+      "name": "eyes of minute seeing"
+    },
+    {
+      "weight": 1,
+      "name": "eyes of petrification"
+    }
+  ]
+}
