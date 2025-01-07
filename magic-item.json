@@ -1,6 +1,6 @@
 {
   "name": "Magic Item",
-  "type": "tables",
+  "type": "items",
   "total-weight": 100,
   "rows": [
     {

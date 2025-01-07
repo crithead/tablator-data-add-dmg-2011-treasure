@@ -1,6 +1,6 @@
 {
   "name": "Lair Treasure Type I",
-  "type": "table-list",
+  "type": "tables",
   "columns": [
     {
       "name": "pp",
