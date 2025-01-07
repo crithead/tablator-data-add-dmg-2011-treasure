@@ -5,19 +5,16 @@
     {
       "name": "cp",
       "chance": 20,
-      "table": null,
       "quantity": "1d10x1000"
     },
     {
       "name": "sp",
       "chance": 30,
-      "table": null,
       "quantity": "1d6x1000"
     },
     {
       "name": "pp",
       "chance": 10,
-      "table": null,
       "quantity": "1d6x100"
     },
     {

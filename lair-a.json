@@ -5,25 +5,21 @@
     {
       "name": "cp",
       "chance": 25,
-      "table": null,
       "quantity": "1d3x1000"
     },
     {
       "name": "sp",
       "chance": 30,
-      "table": null,
       "quantity": "2d10x100"
     },
     {
       "name": "gp",
       "chance": 40,
-      "table": null,
       "quantity": "1d6x1000"
     },
     {
       "name": "pp",
       "chance": 35,
-      "table": null,
       "quantity": "3d6x100"
     },
     {

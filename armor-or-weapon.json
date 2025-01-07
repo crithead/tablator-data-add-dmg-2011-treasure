@@ -1,6 +1,6 @@
 {
   "name": "Armor or Weapon",
-  "type": "tables",
+  "type": "items",
   "total-weight": 100,
   "rows": [
     {
