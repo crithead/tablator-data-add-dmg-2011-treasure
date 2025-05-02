@@ -3,14 +3,10 @@
   "type": "tables",
   "columns": [
     {
-      "name": "any",
-      "chance": 100,
       "table": "magic-item",
       "quantity": "3"
     },
     {
-      "name": "scroll",
-      "chance": 100,
       "table": "scrolls",
       "quantity": "1"
     }
