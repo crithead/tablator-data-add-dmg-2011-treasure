@@ -1,7 +1,6 @@
 {
   "name": "Shield Size & Material 2",
   "#comment": "+3 & +4 shields",
-  "type": "items",
   "total-weight": 100,
   "rows": [
     {

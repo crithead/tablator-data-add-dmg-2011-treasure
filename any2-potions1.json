@@ -1,6 +1,5 @@
 {
   "name": "2 Magic Items & 1 Potion",
-  "type": "tables",
   "columns": [
     {
       "table": "magic-item",

@@ -1,6 +1,5 @@
 {
   "name": "Lair Treasure Type B",
-  "type": "tables",
   "columns": [
     {
       "name": "cp",

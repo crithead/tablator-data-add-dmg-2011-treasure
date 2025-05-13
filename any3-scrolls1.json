@@ -1,6 +1,5 @@
 {
-  "name": "2 Magic Items & 1 Scroll",
-  "type": "tables",
+  "name": "3 Magic Items & 1 Scroll",
   "columns": [
     {
       "table": "magic-item",

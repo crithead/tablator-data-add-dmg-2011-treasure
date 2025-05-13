@@ -1,6 +1,5 @@
 {
   "name": "Scroll Type",
-  "type": "items",
   "total-weight": 100,
   "#comment": "illusionist/druid rows not in original table",
   "rows": [
