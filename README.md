@@ -26,7 +26,7 @@ List the tables in _data-dir_
 Print, then roll three times on the _potions_ table
 
     tablator --data-dir add-dmg-2011-treasure --print potions
-    tablator --data-dir add-dmg-2011-treasure --number 3
+    tablator --data-dir add-dmg-2011-treasure --number 3 potions
 
 List and roll on the _lair-a_ table list
 

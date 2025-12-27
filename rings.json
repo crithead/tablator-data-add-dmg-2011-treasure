@@ -20,12 +20,12 @@
     },
     {
       "weight": 2,
-      "name": "ring of clumsiness",
-      "subtable": "ring-contrariness"
+      "name": "ring of clumsiness"
     },
     {
       "weight": 4,
-      "name": "ring of contrariness"
+      "name": "ring of contrariness",
+      "subtable": "ring-contrariness"
     },
     {
       "weight": 2,
