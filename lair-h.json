@@ -1,47 +1,40 @@
 {
   "name": "Lair Treasure Type H",
-  "type": "table-list",
+  "total-weight": 7,
   "columns": [
     {
       "name": "cp",
       "chance": 25,
-      "table": null,
       "quantity": "2d6x1000"
     },
     {
       "name": "sp",
       "chance": 40,
-      "table": null,
       "quantity": "2d10x1000"
     },
     {
       "name": "gp",
       "chance": 55,
-      "table": null,
       "quantity": "2d10x1000"
     },
     {
       "name": "pp",
       "chance": 40,
-      "table": null,
       "quantity": "1d8x1000"
     },
     {
-      "name": "gems",
-      "chance": 50,
       "table": "gems",
+      "chance": 50,
       "quantity": "3d10"
     },
     {
-      "name": "jewelry",
-      "chance":50,
       "table": "jewelry",
+      "chance":50,
       "quantity": "2d10"
     },
     {
-      "name": "6 magic items",
-      "chance": 15,
       "table": "magic-item",
+      "chance": 15,
       "quantity": "6"
     }
   ]

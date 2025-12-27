@@ -1,11 +1,10 @@
 {
-  "type": "table-list",
   "name": "Lair Treasure Type M",
+  "total-weight": 1,
   "columns": [
     {
       "name": "gp",
       "chance": 100,
-      "table": null,
       "quantity": "2d4"
     }
   ]

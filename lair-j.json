@@ -1,11 +1,10 @@
 {
-  "type": "table-list",
   "name": "Lair Treasure Type J",
+  "total-weight": 1,
   "columns": [
     {
       "name": "cp",
       "chance": 100,
-      "table": null,
       "quantity": "3d8"
     }
   ]

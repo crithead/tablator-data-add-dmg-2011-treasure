@@ -1,17 +1,15 @@
 {
   "name": "2 Magic Items & 1 Potion",
-  "type": "table-list",
+  "total-weight": 2,
   "columns": [
     {
-      "name": "any",
-      "chance": 100,
       "table": "magic-item",
+      "chance": 100,
       "quantity": "2"
     },
     {
-      "name": "potion",
-      "chance": 100,
       "table": "potions",
+      "chance": 100,
       "quantity": "1"
     }
   ]

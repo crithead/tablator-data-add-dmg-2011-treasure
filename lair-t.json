@@ -1,11 +1,10 @@
 {
-  "type": "table-list",
   "name": "Lair Treasure Type T",
+  "total-weight": 1,
   "columns": [
     {
-      "name": "scrolls",
-      "chance": 100,
       "table": "scrolls",
+      "chance": 100,
       "quantity": "1d4"
     }
   ]

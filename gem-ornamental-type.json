@@ -1,55 +1,18 @@
 {
   "name": "Ornamental Gem Type",
-  "type": "items",
   "total-weight": 12,
   "rows": [
-    {
-      "weight": 1,
-      "name": "azurite"
-    },
-    {
-      "weight": 1,
-      "name": "banded agate"
-    },
-    {
-      "weight": 1,
-      "name": "blue quartz"
-    },
-    {
-      "weight": 1,
-      "name": "eye agate"
-    },
-    {
-      "weight": 1,
-      "name": "hematite"
-    },
-    {
-      "weight": 1,
-      "name": "lapis lazuli"
-    },
-    {
-      "weight": 1,
-      "name": "malachite"
-    },
-    {
-      "weight": 1,
-      "name": "moss agate"
-    },
-    {
-      "weight": 1,
-      "name": "obsidian"
-    },
-    {
-      "weight": 1,
-      "name": "rhodochrosite"
-    },
-    {
-      "weight": 1,
-      "name": "tiger eye"
-    },
-    {
-      "weight": 1,
-      "name": "turquoise"
-    }
+    { "name": "azurite" },
+    { "name": "banded agate" },
+    { "name": "blue quartz" },
+    { "name": "eye agate" },
+    { "name": "hematite" },
+    { "name": "lapis lazuli" },
+    { "name": "malachite" },
+    { "name": "moss agate" },
+    { "name": "obsidian" },
+    { "name": "rhodochrosite" },
+    { "name": "tiger eye" },
+    { "name": "turquoise"  }
   ]
 }

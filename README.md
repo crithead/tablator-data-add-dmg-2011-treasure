@@ -10,7 +10,7 @@ the gems and jewelry tables to make them fit the capabilities of _tablator_
 rather than adding seemingly unnecessary complexity.
 
 The artifact and relic table is incomplete.  It is neat to dream about finding
-(or placing) an artifact or relic in a game, but they don't really come up in
+(or placing) and artifact or relic in a game, but they don't really come up in
 play very often.  It is something that the DM should probably hand craft.
 Generating an item with multiple abilities like an artifact falls more into the
 realm of an independent program that has more decision logic than comfortably

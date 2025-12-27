@@ -1,66 +1,75 @@
 {
   "name": "Jewelry",
-  "type": "items",
   "total-weight": 100,
   "rows": [
     {
       "weight": 5,
       "name": "ivory",
-      "value": "1d10x100",
+      "quantity": "1d10x100",
+      "units": "gp",
       "subtable": "jewelry-type"
     },
     {
       "weight": 5,
       "name": "wrought silver",
-      "value": "1d10x100",
+      "quantity": "1d10x100",
+      "units": "gp",
       "subtable": "jewelry-type"
     },
     {
       "weight": 10,
       "name": "wrought silver and gold",
-      "value": "2d6x100",
+      "quantity": "2d6x100",
+      "units": "gp",
       "subtable": "jewelry-type"
     },
     {
       "weight": 20,
       "name": "wrought gold",
-      "value": "3d6x100",
+      "quantity": "3d6x100",
+      "units": "gp",
       "subtable": "jewelry-type"
     },
     {
       "weight": 3,
       "name": "jade",
-      "value": "5d6x100",
+      "quantity": "5d6x100",
+      "units": "gp",
       "subtable": "jewelry-type"
     },
     {
       "weight": 3,
       "name": "coral",
-      "value": "5d6x100",
+      "quantity": "5d6x100",
+      "units": "gp",
       "subtable": "jewelry-type"
     },
     {
       "weight": 4,
       "name": "wrought platinum",
-      "value": "5d6x100",
+      "quantity": "5d6x100",
+      "units": "gp",
       "subtable": "jewelry-type"
     },
     {
       "weight": 20,
       "name": "silver with gems",
-      "value": "1d6x1000",
+      "quantity": "1d6x1000",
+      "units": "gp",
       "subtable": "jewelry-type"
     },
     {
       "weight": 20,
       "name": "gold with gems",
-      "value": "2d4x1000",
+      "quantity": "2d4x1000",
+      "units": "gp",
       "subtable": "jewelry-type"
     },
     {
       "weight": 10,
       "name": "platinum with gems",
-      "value": "2d6x100",
+      "quantity": "2d6x100",
+      "units": "gp",
       "subtable": "jewelry-type"
     }
   ]

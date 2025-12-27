@@ -1,29 +1,25 @@
 {
   "name": "Lair Treasure Type I",
-  "type": "table-list",
+  "total-weight": 4,
   "columns": [
     {
       "name": "pp",
       "chance": 30,
-      "table": null,
       "quantity": "1d6x100"
     },
     {
-      "name": "gems",
-      "chance": 55,
       "table": "gems",
+      "chance": 55,
       "quantity": "2d6"
     },
     {
-      "name": "jewelry",
-      "chance":50,
       "table": "jewelry",
+      "chance":50,
       "quantity": "2d4"
     },
     {
-      "name": "magic item",
-      "chance": 15,
       "table": "magic-item",
+      "chance": 15,
       "quantity": "1"
     }
   ]

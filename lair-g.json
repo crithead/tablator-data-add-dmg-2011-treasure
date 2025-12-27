@@ -1,35 +1,30 @@
 {
   "name": "Lair Treasure Type G",
-  "type": "table-list",
+  "total-weight": 5,
   "columns": [
     {
       "name": "gp",
       "chance": 50,
-      "table": null,
       "quantity": "2d10x1000"
     },
     {
       "name": "pp",
       "chance": 50,
-      "table": null,
       "quantity": "1d10x1000"
     },
     {
-      "name": "gems",
-      "chance": 30,
       "table": "gems",
+      "chance": 30,
       "quantity": "3d6"
     },
     {
-      "name": "jewelry",
-      "chance": 25,
       "table": "jewelry",
+      "chance": 25,
       "quantity": "1d6"
     },
     {
-      "name": "5 magic items",
-      "chance": 35,
       "table": "magic-item",
+      "chance": 35,
       "quantity": "5"
     }
   ]

@@ -1,55 +1,18 @@
 {
   "name": "Semi-precious Gem Type",
-  "type": "items",
   "total-weight": 12,
   "rows": [
-    {
-      "weight": 1,
-      "name": "bloodstone"
-    },
-    {
-      "weight": 1,
-      "name": "carnelian"
-    },
-    {
-      "weight": 1,
-      "name": "chalcedony"
-    },
-    {
-      "weight": 1,
-      "name": "citrine"
-    },
-    {
-      "weight": 1,
-      "name": "jasper"
-    },
-    {
-      "weight": 1,
-      "name": "moonstone"
-    },
-    {
-      "weight": 1,
-      "name": "onyx"
-    },
-    {
-      "weight": 1,
-      "name": "rock crystal"
-    },
-    {
-      "weight": 1,
-      "name": "sardonyx"
-    },
-    {
-      "weight": 1,
-      "name": "smoky quartz"
-    },
-    {
-      "weight": 1,
-      "name": "star rose quartz"
-    },
-    {
-      "weight": 1,
-      "name": "zircon"
-    }
+    { "name": "bloodstone" },
+    { "name": "carnelian" },
+    { "name": "chalcedony" },
+    { "name": "citrine" },
+    { "name": "jasper" },
+    { "name": "moonstone" },
+    { "name": "onyx" },
+    { "name": "rock crystal" },
+    { "name": "sardonyx" },
+    { "name": "smoky quartz" },
+    { "name": "star rose quartz" },
+    { "name": "zircon"  }
   ]
 }

@@ -1,41 +1,35 @@
 {
   "name": "Lair Treasure Type F",
-  "type": "table-list",
+  "total-weight": 6,
   "columns": [
     {
       "name": "sp",
       "chance": 10,
-      "table": null,
       "quantity": "3d6x1000"
     },
     {
       "name": "gp",
       "chance": 40,
-      "table": null,
       "quantity": "1d6x1000"
     },
     {
       "name": "pp",
       "chance": 15,
-      "table": null,
       "quantity": "1d4x1000"
     },
     {
-      "name": "gems",
-      "chance": 20,
       "table": "gems",
+      "chance": 20,
       "quantity": "2d10"
     },
     {
-      "name": "jewelry",
-      "chance": 10,
       "table": "jewelry",
+      "chance": 10,
       "quantity": "1d6"
     },
     {
-      "name": "5 non-weapons",
-      "chance": 30,
       "table": "non-weapon",
+      "chance": 30,
       "quantity": "5"
     }
   ]

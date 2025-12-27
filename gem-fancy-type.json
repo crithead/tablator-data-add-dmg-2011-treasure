@@ -1,63 +1,20 @@
 {
   "name": "Fancy Gem Type",
-  "type": "items",
   "total-weight": 14,
   "rows": [
-    {
-      "weight": 1,
-      "name": "amber"
-    },
-    {
-      "weight": 1,
-      "name": "alexandrite"
-    },
-    {
-      "weight": 1,
-      "name": "amethyst"
-    },
-    {
-      "weight": 1,
-      "name": "aquamarine"
-    },
-    {
-      "weight": 1,
-      "name": "chrysoberyl"
-    },
-    {
-      "weight": 1,
-      "name": "coral"
-    },
-    {
-      "weight": 1,
-      "name": "garnet"
-    },
-    {
-      "weight": 1,
-      "name": "jade"
-    },
-    {
-      "weight": 1,
-      "name": "jet"
-    },
-    {
-      "weight": 1,
-      "name": "pearl"
-    },
-    {
-      "weight": 1,
-      "name": "peridot"
-    },
-    {
-      "weight": 1,
-      "name": "spinel"
-    },
-    {
-      "weight": 1,
-      "name": "topaz"
-    },
-    {
-      "weight": 1,
-      "name": "tourmaline"
-    }
+    { "name": "amber" },
+    { "name": "alexandrite" },
+    { "name": "amethyst" },
+    { "name": "aquamarine" },
+    { "name": "chrysoberyl" },
+    { "name": "coral" },
+    { "name": "garnet" },
+    { "name": "jade" },
+    { "name": "jet" },
+    { "name": "pearl" },
+    { "name": "peridot" },
+    { "name": "spinel" },
+    { "name": "topaz" },
+    { "name": "tourmaline" }
   ]
 }

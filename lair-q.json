@@ -1,11 +1,10 @@
 {
-  "type": "table-list",
   "name": "Lair Treasure Type Q",
+  "total-weight": 1,
   "columns": [
     {
-      "name": "gems",
-      "chance": 100,
       "table": "gems",
+      "chance": 100,
       "quantity": "1d4"
     }
   ]

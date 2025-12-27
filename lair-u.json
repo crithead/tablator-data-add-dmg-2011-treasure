@@ -1,23 +1,20 @@
 {
-  "type": "table-list",
   "name": "Lair Treasure Type U",
+  "total-weight": 3,
   "columns": [
     {
-      "name": "gems",
-      "chance": 90,
       "table": "gems",
+      "chance": 90,
       "quantity": "2d8"
     },
     {
-      "name": "jewelry",
-      "chance": 80,
       "table": "jewelry",
+      "chance": 80,
       "quantity": "1d6"
     },
     {
-      "name": "any",
-      "chance": 70,
       "table": "magic-item",
+      "chance": 70,
       "quantity": "1"
     }
   ]

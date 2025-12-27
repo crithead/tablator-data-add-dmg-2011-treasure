@@ -1,17 +1,15 @@
 {
-  "type": "table-list",
   "name": "Lair Treasure Type O",
+  "total-weight": 2,
   "columns": [
     {
       "name": "cp",
       "chance": 100,
-      "table": null,
       "quantity": "1d4x10"
     },
     {
       "name": "sp",
       "chance": 100,
-      "table": null,
       "quantity": "1d3x10"
     }
   ]

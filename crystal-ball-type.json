@@ -1,11 +1,10 @@
 {
   "name": "Crystal Ball Type",
-  "type": "items",
   "total-weight": 20,
   "rows": [
     {
       "weight": 10,
-      "name": ""
+      "name": "with normal sight"
     },
     {
       "weight": 4,

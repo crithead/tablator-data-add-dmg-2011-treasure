@@ -1,11 +1,10 @@
 {
-  "type": "table-list",
   "name": "Lair Treasure Type S",
+  "total-weight": 1,
   "columns": [
     {
-      "name": "potions",
-      "chance": 100,
       "table": "potions",
+      "chance": 100,
       "quantity": "1d8"
     }
   ]

@@ -1,47 +1,40 @@
 {
-  "type": "table-list",
   "name": "Lair Treasure Type Z",
+  "total-weight": 7,
   "columns": [
     {
       "name": "cp",
       "chance": 100,
-      "table": null,
       "quantity": "1d3x100"
     },
     {
       "name": "sp",
       "chance": 100,
-      "table": null,
       "quantity": "1d4x100"
     },
     {
       "name": "gp",
       "chance": 100,
-      "table": null,
       "quantity": "1d6x100"
     },
     {
       "name": "pp",
       "chance": 100,
-      "table": null,
       "quantity": "1d4x100"
     },
     {
-      "name": "gems",
-      "chance": 55,
       "table": "gems",
+      "chance": 55,
       "quantity": "1d6"
     },
     {
-      "name": "jewelry",
-      "chance": 50,
       "table": "jewelry",
+      "chance": 50,
       "quantity": "2d6"
     },
     {
-      "name": "magic item",
-      "chance": 50,
       "table": "magic-item",
+      "chance": 50,
       "quantity": "3"
     }
   ]
